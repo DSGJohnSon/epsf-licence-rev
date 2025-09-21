@@ -1,0 +1,6919 @@
+{
+  "quiz": {
+    "title": "Quiz de Révision EPSF - Collection Complète",
+    "description": "Testez vos connaissances avec ce quiz interactif pour la licence EPSF - 262 questions",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Pour une ligne dont la vitesse est inférieure ou égale à 160km/h, la zone dangereuse s’étend, de part et d’autre du rail, au moins à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "1 mètre"
+          },
+          {
+            "id": "2",
+            "text": "1,50 mètre"
+          },
+          {
+            "id": "3",
+            "text": "2,00 mètres"
+          },
+          {
+            "id": "4",
+            "text": "2,50 mètres"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP15",
+        "image": "/images_questions/RSP15.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 2,
+        "question": "Pour un conducteur de train, la ponctualité commence par:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Assurer le départ du train à l’heure"
+          },
+          {
+            "id": "2",
+            "text": "Prendre son service à l’heure"
+          },
+          {
+            "id": "3",
+            "text": "Terminer son service à l’heure"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC1"
+      },
+      {
+        "id": 3,
+        "question": "Parmi les signaux ci-dessous, lesquels sont des signaux permanents ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST35_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST35_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST35_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST35_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST35"
+      },
+      {
+        "id": 4,
+        "question": "Au début de chaque journée de travail, le conducteur doit impérativement se mettre en relation avec le service :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Médical"
+          },
+          {
+            "id": "2",
+            "text": "De commande du personnel"
+          },
+          {
+            "id": "3",
+            "text": "Communication"
+          },
+          {
+            "id": "4",
+            "text": "Des ressources humaines"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC2"
+      },
+      {
+        "id": 5,
+        "question": "Les horaires de travail d’un conducteur sont:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Réguliers"
+          },
+          {
+            "id": "2",
+            "text": "Irréguliers"
+          },
+          {
+            "id": "3",
+            "text": "En 2x8"
+          },
+          {
+            "id": "4",
+            "text": "En 3x8"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC3"
+      },
+      {
+        "id": 6,
+        "question": "Parmi les tâches ci-dessous, laquelle ne fait pas partie du métier de conducteur?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Préparer sa mission"
+          },
+          {
+            "id": "2",
+            "text": "Atteler la locomotive au train"
+          },
+          {
+            "id": "3",
+            "text": "Remplacer un moteur d’essuie-glace"
+          },
+          {
+            "id": "4",
+            "text": "Effectuer les essais sur la locomotive"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC4"
+      },
+      {
+        "id": 7,
+        "question": "Lors de la préparation de sa mission, le conducteur doit emporter :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret ligne"
+          },
+          {
+            "id": "2",
+            "text": "La carte du réseau ferroviaire"
+          },
+          {
+            "id": "3",
+            "text": "Le livret de procédures"
+          },
+          {
+            "id": "4",
+            "text": "Les documents de formation"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "AEMC5"
+      },
+      {
+        "id": 8,
+        "question": "Le conducteur a utilisé un formulaire du «livret de procédures pour le conducteur» :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Il demande le remplacement du formulaire à l’EPSF"
+          },
+          {
+            "id": "2",
+            "text": "Il demande le remplacement du formulaire au GID"
+          },
+          {
+            "id": "3",
+            "text": "Il demande le remplacement du formulaire à son EF"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC6"
+      },
+      {
+        "id": 9,
+        "question": "Le conducteur a utilisé un formulaire du «livret de procédure pour le conducteur» :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Il le restitue à son EF"
+          },
+          {
+            "id": "2",
+            "text": "Il le restitue à l'EPSF"
+          },
+          {
+            "id": "3",
+            "text": "Il le restitue au GID"
+          },
+          {
+            "id": "4",
+            "text": "Il le détruit"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "AEMC7"
+      },
+      {
+        "id": 10,
+        "question": "Le conducteur assure une journée de service avec un repos hors résidence. Que doit-il emporter ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Il n’emporte rien,"
+          },
+          {
+            "id": "2",
+            "text": "Il emporte ses effets personnels,"
+          },
+          {
+            "id": "3",
+            "text": "Il demande un kit de toilette à son service."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 8"
+      },
+      {
+        "id": 11,
+        "question": "Sur le parcours « domicile-travail », un pneu de ma voiture crève. En premier lieu :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "J’avise rapidement mon employeur de mon retard,"
+          },
+          {
+            "id": "2",
+            "text": "Je préviens un collègue,"
+          },
+          {
+            "id": "3",
+            "text": "Je répare mon pneu."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "AEMC 9"
+      },
+      {
+        "id": 12,
+        "question": "Mon rythme de vie me fait perdre le sommeil :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Je consulte mon médecin,"
+          },
+          {
+            "id": "2",
+            "text": "Je consomme de l’alcool,"
+          },
+          {
+            "id": "3",
+            "text": "Je prends un somnifère."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "AEMC 10"
+      },
+      {
+        "id": 13,
+        "question": "Selon vous, quels sont les facteurs altérant les facultés, dans la mission de sécurité :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le sport,"
+          },
+          {
+            "id": "2",
+            "text": "Les émotions,"
+          },
+          {
+            "id": "3",
+            "text": "La consommation d’alcool."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "AEMC 11"
+      },
+      {
+        "id": 14,
+        "question": "La consommation de produits psychotropes (anxiolytiques, hypnotiques…) :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Favorise l’attention du conducteur,"
+          },
+          {
+            "id": "2",
+            "text": "N’exerce aucune influence sur le comportement du conducteur,"
+          },
+          {
+            "id": "3",
+            "text": "Altère les capacités du conducteur."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC 12"
+      },
+      {
+        "id": 15,
+        "question": "Selon vous, quels sont les facteurs altérant les facultés, dans la mission de sécurité :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le manque de sommeil,"
+          },
+          {
+            "id": "2",
+            "text": "La prise de produits psychotropes,"
+          },
+          {
+            "id": "3",
+            "text": "La vie associative."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "AEMC 13"
+      },
+      {
+        "id": 16,
+        "question": "Dans le cadre de mes fonctions, le taux d’alcool légal autorisé, par litre de sang, est inférieur à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "0 g/l,"
+          },
+          {
+            "id": "2",
+            "text": "0,2g/l,"
+          },
+          {
+            "id": "3",
+            "text": "0,5g/l,"
+          },
+          {
+            "id": "4",
+            "text": "1 g/l."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 14"
+      },
+      {
+        "id": 17,
+        "question": "Mes horaires de travail sont définis en fonction :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "De ma vie de famille,"
+          },
+          {
+            "id": "2",
+            "text": "De mes activités sportives,"
+          },
+          {
+            "id": "3",
+            "text": "Des besoins du service,"
+          },
+          {
+            "id": "4",
+            "text": "Des émissions de télévision."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC 15"
+      },
+      {
+        "id": 18,
+        "question": "Quelle est la durée maximale de validité de la licence « Conducteur de train » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un an,"
+          },
+          {
+            "id": "2",
+            "text": "Trois ans,"
+          },
+          {
+            "id": "3",
+            "text": "Dix ans."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC 16"
+      },
+      {
+        "id": 19,
+        "question": "Pour pouvoir conduire un train, l’obtention de la licence est-elle suffisante ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Oui,"
+          },
+          {
+            "id": "2",
+            "text": "Non,"
+          },
+          {
+            "id": "3",
+            "text": "Ça dépend."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 17"
+      },
+      {
+        "id": 20,
+        "question": "La Licence est délivrée par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’employeur,"
+          },
+          {
+            "id": "2",
+            "text": "L’autorité de sécurité d’un autre pays européen,"
+          },
+          {
+            "id": "3",
+            "text": "L’autorité de sécurité française,"
+          },
+          {
+            "id": "4",
+            "text": "Le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "5",
+            "text": "L’autorité de régulation."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "AEMC 18"
+      },
+      {
+        "id": 21,
+        "question": "La Licence est de couleur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Blanche,"
+          },
+          {
+            "id": "2",
+            "text": "Jaune,"
+          },
+          {
+            "id": "3",
+            "text": "Bleue,"
+          },
+          {
+            "id": "4",
+            "text": "Verte."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC 19"
+      },
+      {
+        "id": 22,
+        "question": "La Licence appartient :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "A l’EPSF,"
+          },
+          {
+            "id": "2",
+            "text": "A l’employeur,"
+          },
+          {
+            "id": "3",
+            "text": "Au conducteur,"
+          },
+          {
+            "id": "4",
+            "text": "Au gestionnaire d’Infrastructure."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "AEMC 20"
+      },
+      {
+        "id": 23,
+        "question": "Les mentions et informations figurant sur la Licence sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nom du titulaire,"
+          },
+          {
+            "id": "2",
+            "text": "La catégorie de conduite,"
+          },
+          {
+            "id": "3",
+            "text": "La photo du titulaire,"
+          },
+          {
+            "id": "4",
+            "text": "Les lignes pratiquées."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "AEMC 21"
+      },
+      {
+        "id": 24,
+        "question": "Les mentions et informations figurant sur la Licence sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La date de l’examen d’aptitudes physiques,"
+          },
+          {
+            "id": "2",
+            "text": "Le port de verres correcteurs,"
+          },
+          {
+            "id": "3",
+            "text": "La photographie du titulaire,"
+          },
+          {
+            "id": "4",
+            "text": "La date de l’examen d’aptitude psychologique."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "AEMC 22"
+      },
+      {
+        "id": 25,
+        "question": "En France la licence peut être retirée par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La force publique,"
+          },
+          {
+            "id": "2",
+            "text": "L’EPSF,"
+          },
+          {
+            "id": "3",
+            "text": "L’employeur,"
+          },
+          {
+            "id": "4",
+            "text": "L’autorité de régulation."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 23"
+      },
+      {
+        "id": 26,
+        "question": "La Licence seule permet en Europe de :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Conduire sur petits parcours,"
+          },
+          {
+            "id": "2",
+            "text": "Justifier de son aptitude physique à la conduite,"
+          },
+          {
+            "id": "3",
+            "text": "Conduire sur toutes les lignes,"
+          },
+          {
+            "id": "4",
+            "text": "De justifier son niveau linguistique,"
+          },
+          {
+            "id": "5",
+            "text": "De libéraliser le marché du travail."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "5"
+        ],
+        "code": "AEMC 24"
+      },
+      {
+        "id": 27,
+        "question": "Pour que mon attestation complémentaire reste valide, mes compétences doivent être évaluées au moins tous les :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un an,"
+          },
+          {
+            "id": "2",
+            "text": "Trois ans,"
+          },
+          {
+            "id": "3",
+            "text": "Dix ans."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 25"
+      },
+      {
+        "id": 28,
+        "question": "L’attestation complémentaire est délivrée par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’employeur,"
+          },
+          {
+            "id": "2",
+            "text": "L’autorité de sécurité française,"
+          },
+          {
+            "id": "3",
+            "text": "Le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "4",
+            "text": "La commission d’aptitude ferroviaire."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "AEMC 26"
+      },
+      {
+        "id": 29,
+        "question": "Quelle est la durée maximale de validité de l’examen médical d’aptitude, pour un conducteur de moins de 53 ans ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Deux ans,"
+          },
+          {
+            "id": "2",
+            "text": "Trois ans,"
+          },
+          {
+            "id": "3",
+            "text": "Dix ans."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 27"
+      },
+      {
+        "id": 30,
+        "question": "Avant 53 ans, je dois faire renouveler mon certificat d’aptitude physique tous les :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un an,"
+          },
+          {
+            "id": "2",
+            "text": "Trois ans,"
+          },
+          {
+            "id": "3",
+            "text": "Cinq ans."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "AEMC 27bis"
+      },
+      {
+        "id": 31,
+        "question": "L’aptitude psychologique est renouvelée :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Tous les 3 ans,"
+          },
+          {
+            "id": "2",
+            "text": "Sur avis du médecin d’aptitude,"
+          },
+          {
+            "id": "3",
+            "text": "Tous les 5 ans,"
+          },
+          {
+            "id": "4",
+            "text": "Au moment du renouvellement de la licence,"
+          },
+          {
+            "id": "5",
+            "text": "Jamais."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "AEMC 28"
+      },
+      {
+        "id": 32,
+        "question": "Les accidents du travail ont comme cause principale :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des dispositions de sécurité insuffisantes de la part de l’entreprise,"
+          },
+          {
+            "id": "2",
+            "text": "La fatalité,"
+          },
+          {
+            "id": "3",
+            "text": "Le non-respect des procédures."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 1"
+      },
+      {
+        "id": 33,
+        "question": "Le risque de heurt par la circulation est un risque :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Radioactif,"
+          },
+          {
+            "id": "2",
+            "text": "Chimique,"
+          },
+          {
+            "id": "3",
+            "text": "Electromagnétique,"
+          },
+          {
+            "id": "4",
+            "text": "Ferroviaire."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "RSP 2"
+      },
+      {
+        "id": 34,
+        "question": "Lorsqu’un train circule, il crée un déplacement d’air et des turbulences que l’on appelle l’effet de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Serre,"
+          },
+          {
+            "id": "2",
+            "text": "Joule,"
+          },
+          {
+            "id": "3",
+            "text": "Souffle."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 3"
+      },
+      {
+        "id": 35,
+        "question": "Quels sont les risques liés aux déplacements du personnel, dans l’enceinte ferroviaire ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les glissades,"
+          },
+          {
+            "id": "2",
+            "text": "Le froid,"
+          },
+          {
+            "id": "3",
+            "text": "Les heurts,"
+          },
+          {
+            "id": "4",
+            "text": "La fatigue."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "RSP 4"
+      },
+      {
+        "id": 36,
+        "question": "Que signifie l’abréviation « E.P.I » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Emplacement de Protection Individuelle,"
+          },
+          {
+            "id": "2",
+            "text": "Equipement de Protection Individuelle,"
+          },
+          {
+            "id": "3",
+            "text": "Ensemble de Protections Individuelles,"
+          },
+          {
+            "id": "4",
+            "text": "Espacement de Protections Individuelles."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 5"
+      },
+      {
+        "id": 37,
+        "question": "Pour stationner, se déplacer sur les voies ou à leurs abords, le conducteur doit porter :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des vêtements flottants,"
+          },
+          {
+            "id": "2",
+            "text": "Des chaussures de sécurité,"
+          },
+          {
+            "id": "3",
+            "text": "Un article de visualisation."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 6"
+      },
+      {
+        "id": 38,
+        "question": "Lors de vos déplacements à pied dans les emprises ferroviaires, vous devez porter :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un casque,"
+          },
+          {
+            "id": "2",
+            "text": "Des lunettes de soleil,"
+          },
+          {
+            "id": "3",
+            "text": "Un article de visualisation,"
+          },
+          {
+            "id": "4",
+            "text": "Des gants de protection."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 6bis"
+      },
+      {
+        "id": 39,
+        "question": "Le port des articles de visualisation est :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Laissé à l’initiative de l’opérateur,"
+          },
+          {
+            "id": "2",
+            "text": "Obligatoire dans la gare, dans un faisceau ou sur les voies hors zones accessibles au public,"
+          },
+          {
+            "id": "3",
+            "text": "Obligatoire lorsque l’opérateur se déplace dans une zone dangereuse ou à proximité."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "RSP 7"
+      },
+      {
+        "id": 40,
+        "question": "Dans un établissement ferroviaire, par quels moyens, pouvez-vous être renseigné sur l’emplacement des pistes et itinéraires que vous devrez emprunter ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Par le fléchage sur le terrain,"
+          },
+          {
+            "id": "2",
+            "text": "Par la consultation de l’affichage « Sécurité circulation »,"
+          },
+          {
+            "id": "3",
+            "text": "Par la consultation des schémas affichés au point d’entrée,"
+          },
+          {
+            "id": "4",
+            "text": "Par la consultation de la documentation horaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "RSP 8"
+      },
+      {
+        "id": 41,
+        "question": "Dans l’enceinte ferroviaire, quels sont les éléments que vous devez suivre pour vous déplacez à pied ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les schémas,"
+          },
+          {
+            "id": "2",
+            "text": "Mon sens d’orientation,"
+          },
+          {
+            "id": "3",
+            "text": "Les itinéraires les plus rapides."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "RSP 9"
+      },
+      {
+        "id": 42,
+        "question": "Pour se déplacer le long des voies principales, le conducteur emprunte :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des pistes,"
+          },
+          {
+            "id": "2",
+            "text": "Des itinéraires,"
+          },
+          {
+            "id": "3",
+            "text": "Des chemins."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "RSP 10"
+      },
+      {
+        "id": 43,
+        "question": "Pour se déplacer en dehors des voies principales, le conducteur emprunte :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des pistes,"
+          },
+          {
+            "id": "2",
+            "text": "Des itinéraires,"
+          },
+          {
+            "id": "3",
+            "text": "Des chemins."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 11"
+      },
+      {
+        "id": 44,
+        "question": "Dans une enceinte ferroviaire, quels sont les éléments qui vous permettent de définir un itinéraire piéton ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La signalétique,"
+          },
+          {
+            "id": "2",
+            "text": "Mon sens d’orientation,"
+          },
+          {
+            "id": "3",
+            "text": "Les itinéraires les plus rapides."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "RSP 12"
+      },
+      {
+        "id": 45,
+        "question": "Dans le livret ligne, j’identifie :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les distances de freinage,"
+          },
+          {
+            "id": "2",
+            "text": "La Vitesse Limite de tous les trains circulant sur la ligne,"
+          },
+          {
+            "id": "3",
+            "text": "Le sens de circulation des trains,"
+          },
+          {
+            "id": "4",
+            "text": "Les points à mauvaise visibilité."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "RSP 13"
+      },
+      {
+        "id": 46,
+        "question": "Un train roulant à 160km/h parcourt en 1 seconde :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "34 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "44 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "54 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "64 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 14"
+      },
+      {
+        "id": 47,
+        "question": "Pour une ligne dont la vitesse est supérieure à 160km/h sans dépasser 300km/h, la zone dangereuse s’étend, de part et d’autre du rail, au moins à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "1 mètre,"
+          },
+          {
+            "id": "2",
+            "text": "1,50 mètre,"
+          },
+          {
+            "id": "3",
+            "text": "2,00 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "2,50 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 16"
+      },
+      {
+        "id": 48,
+        "question": "Lors du passage d’une circulation, l’emplacement où les agents peuvent se garer (en dehors de toute zone dangereuse) s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’entrevoie,"
+          },
+          {
+            "id": "2",
+            "text": "La zone d’évolution,"
+          },
+          {
+            "id": "3",
+            "text": "Le stationnement,"
+          },
+          {
+            "id": "4",
+            "text": "L’emplacement de garage."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "RSP 17"
+      },
+      {
+        "id": 49,
+        "question": "Selon vous, parmi les éléments ci-dessous, lesquels doivent vous servir à délimiter votre zone de visibilité ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La vitesse du train le plus rapide sur la ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Les conditions atmosphériques,"
+          },
+          {
+            "id": "3",
+            "text": "Les performances de freinage des trains,"
+          },
+          {
+            "id": "4",
+            "text": "Les conditions d’adhérence."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "RSP 18"
+      },
+      {
+        "id": 50,
+        "question": "Quels sont les éléments qui me permettent d’évoluer dans ma zone de visibilité ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La vitesse du train le plus rapide sur la ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Les conditions d’adhérence,"
+          },
+          {
+            "id": "3",
+            "text": "Le lieu (tunnel, pont…),"
+          },
+          {
+            "id": "4",
+            "text": "Les performances de freinage des trains."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "RSP 18bis"
+      },
+      {
+        "id": 51,
+        "question": "Pour traverser une voie, il faut :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Demander l’autorisation au responsable de la zone,"
+          },
+          {
+            "id": "2",
+            "text": "Marquer l’arrêt avant de s’engager,"
+          },
+          {
+            "id": "3",
+            "text": "Regarder attentivement des deux côtés."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "RSP 19"
+      },
+      {
+        "id": 52,
+        "question": "Les mauvaises conditions atmosphériques sont des facteurs :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Diminuant les risques d’accident,"
+          },
+          {
+            "id": "2",
+            "text": "Sans aucune influence sur les risques d’accident,"
+          },
+          {
+            "id": "3",
+            "text": "Augmentant les risques d’accident."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 20"
+      },
+      {
+        "id": 53,
+        "question": "La distance moyenne entre 2 poteaux caténaires, en ligne droite, est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Trente mètres,"
+          },
+          {
+            "id": "2",
+            "text": "Cinquante mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Cent mètres,"
+          },
+          {
+            "id": "4",
+            "text": "Cent trente mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 21"
+      },
+      {
+        "id": 54,
+        "question": "Quels éléments permettent d’évaluer une distance, avant de traverser la voie ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Mon estimation,"
+          },
+          {
+            "id": "2",
+            "text": "Les traverses,"
+          },
+          {
+            "id": "3",
+            "text": "Les supports caténaires,"
+          },
+          {
+            "id": "4",
+            "text": "Les bornes hectométriques."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "RSP 22"
+      },
+      {
+        "id": 55,
+        "question": "Je monte sur un engin moteur avec :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un point d’appui,"
+          },
+          {
+            "id": "2",
+            "text": "Deux points d’appui,"
+          },
+          {
+            "id": "3",
+            "text": "Trois points d’appui."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 23"
+      },
+      {
+        "id": 56,
+        "question": "Pour monter ou descendre, de face à l’engin moteur, vous :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Sautez sur la dernière marche,"
+          },
+          {
+            "id": "2",
+            "text": "Gardez toujours 3 points d’appui et utilisez toutes les marches,"
+          },
+          {
+            "id": "3",
+            "text": "Portez des gants et sautez de la dernière marche,"
+          },
+          {
+            "id": "4",
+            "text": "N’engagez pas le gabarit et vérifiez l’état du sol,"
+          },
+          {
+            "id": "5",
+            "text": "Portez votre sac en bandoulière."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "RSP 24"
+      },
+      {
+        "id": 57,
+        "question": "La distance minimum à respecter pour passer derrière un véhicule à l’arrêt, est de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un mètre,"
+          },
+          {
+            "id": "2",
+            "text": "Deux mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Trois mètres."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 25"
+      },
+      {
+        "id": 58,
+        "question": "Pour permettre de traverser entre 2 véhicules, il faut nécessairement que :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La distance entre les 2 véhicules soit égale à 3 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "La distance entre l’opérateur et les véhicules soit d’au moins 3 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Les véhicules doivent être en mouvement,"
+          },
+          {
+            "id": "4",
+            "text": "Les véhicules doivent être à l’arrêt."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "RSP 26"
+      },
+      {
+        "id": 59,
+        "question": "Quelle distance doit respecter un conducteur de train, pour passer devant un engin moteur à l’arrêt ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Deux mètres,"
+          },
+          {
+            "id": "2",
+            "text": "Trois mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Quatre mètres,"
+          },
+          {
+            "id": "4",
+            "text": "Cinq mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 27"
+      },
+      {
+        "id": 60,
+        "question": "Un fil caténaire est tombé au sol. Vous le considérez ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Sous tension,"
+          },
+          {
+            "id": "2",
+            "text": "Hors tension."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "RSP 28"
+      },
+      {
+        "id": 61,
+        "question": "Vous êtes en présence d’un fil caténaire tombé à terre. Que faites-vous en priorité ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Vous éloignez le fil caténaire du rail,"
+          },
+          {
+            "id": "2",
+            "text": "Vous ne touchez pas au fil caténaire,"
+          },
+          {
+            "id": "3",
+            "text": "Vous demandez à d’autres personnes de venir constater l’incident,"
+          },
+          {
+            "id": "4",
+            "text": "Vous avisez le gestionnaire d’infrastructure délégué (GID)."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "RSP 29"
+      },
+      {
+        "id": 62,
+        "question": "Un courant électrique de 50 volts est :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Invisible,"
+          },
+          {
+            "id": "2",
+            "text": "Visible,"
+          },
+          {
+            "id": "3",
+            "text": "Dangereux,"
+          },
+          {
+            "id": "4",
+            "text": "Pas dangereux."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "RSP 30"
+      },
+      {
+        "id": 63,
+        "question": "L’habilitation électrique est délivrée par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’employeur,"
+          },
+          {
+            "id": "2",
+            "text": "L’agent de sécurité,"
+          },
+          {
+            "id": "3",
+            "text": "L’agent du service électrique."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "RSP 31"
+      },
+      {
+        "id": 64,
+        "question": "Quel est le but de l’habilitation électrique ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Habiliter à intervenir dans l’entrevoie,"
+          },
+          {
+            "id": "2",
+            "text": "Sensibiliser aux risques électriques,"
+          },
+          {
+            "id": "3",
+            "text": "Conduire des locomotives électriques."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 32"
+      },
+      {
+        "id": 65,
+        "question": "En général, par rapport au plan de roulement le fil de contact de la caténaire se situe à une hauteur de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "4.78 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "5.78 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "6.78 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 34"
+      },
+      {
+        "id": 66,
+        "question": "Quelle doit être ma zone de visibilité minimale pour traverser une plateforme à deux voies dont la vitesse limite est de 160 km/h, sachant qu’il me faut au maximum 10 secondes pour traverser et dégager la zone dangereuse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Environ 250 m de part et d’autre,"
+          },
+          {
+            "id": "2",
+            "text": "Environ 450 m de part et d’autre,"
+          },
+          {
+            "id": "3",
+            "text": "Environ 660 m de part et d’autre,"
+          },
+          {
+            "id": "4",
+            "text": "Environ 850 m de part et d’autre."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 35"
+      },
+      {
+        "id": 67,
+        "question": "Le conducteur circule sur une voie électrifiée, dans un tunnel, je considère que la caténaire est à une hauteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Inférieure à 4 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "Inférieure à 5 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Inférieure à 6 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 36"
+      },
+      {
+        "id": 68,
+        "question": "La bande bleue avec liserés blancs présente sur un support caténaire, vous signale un fil de contact à une hauteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Inférieure à 4 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "Inférieure à 5 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Inférieure à 6 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "RSP 37"
+      },
+      {
+        "id": 69,
+        "question": "La bande bleue avec liserés blancs présente sur un support caténaire, vous signale :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La direction d’un téléphone d’alarme,"
+          },
+          {
+            "id": "2",
+            "text": "Un dispositif d’urgence,"
+          },
+          {
+            "id": "3",
+            "text": "Un fil de contact à une hauteur inférieure à 5 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP 38"
+      },
+      {
+        "id": 70,
+        "question": "Le guidage du matériel « moteur et remorqué » est réalisé par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le bogie,"
+          },
+          {
+            "id": "2",
+            "text": "La caisse,"
+          },
+          {
+            "id": "3",
+            "text": "Les roues,"
+          },
+          {
+            "id": "4",
+            "text": "Les boîtes d’essieux."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "4"
+        ],
+        "code": "IMR 1"
+      },
+      {
+        "id": 71,
+        "question": "Les éléments constitutifs d’une roue sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les boudins,"
+          },
+          {
+            "id": "2",
+            "text": "Les essieux,"
+          },
+          {
+            "id": "3",
+            "text": "Les tables de roulement,"
+          },
+          {
+            "id": "4",
+            "text": "Les tables de refoulement."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "IMR 2"
+      },
+      {
+        "id": 72,
+        "question": "Le guidage d’un véhicule est réalisé par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le profil des roues,"
+          },
+          {
+            "id": "2",
+            "text": "La forme du rail,"
+          },
+          {
+            "id": "3",
+            "text": "La vitesse du train,"
+          },
+          {
+            "id": "4",
+            "text": "Le freinage."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "IMR 3"
+      },
+      {
+        "id": 73,
+        "question": "Quel est le rôle de la voie ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Supporter et guider le matériel roulant,"
+          },
+          {
+            "id": "2",
+            "text": "Répartir les efforts verticaux,"
+          },
+          {
+            "id": "3",
+            "text": "Améliorer l’adhérence."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 4"
+      },
+      {
+        "id": 74,
+        "question": "La voie est posée dans les courbes avec un certain « devers ». Le devers permet :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "De compenser en partie l’action de la force centrifuge,"
+          },
+          {
+            "id": "2",
+            "text": "D’assurer le guidage des roues,"
+          },
+          {
+            "id": "3",
+            "text": "D’amortir les chocs sur la voie."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 5"
+      },
+      {
+        "id": 75,
+        "question": "L’ensemble du parc de véhicules de transport ferroviaire se nomme :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le matériel moteur,"
+          },
+          {
+            "id": "2",
+            "text": "Le matériel remorqué,"
+          },
+          {
+            "id": "3",
+            "text": "Le matériel roulant,"
+          },
+          {
+            "id": "4",
+            "text": "La rame."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 6"
+      },
+      {
+        "id": 76,
+        "question": "Un élément réversible autonome est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un élément autoporté,"
+          },
+          {
+            "id": "2",
+            "text": "Un élément autotracté,"
+          },
+          {
+            "id": "3",
+            "text": "Un élément automoteur."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 7"
+      },
+      {
+        "id": 77,
+        "question": "Les éléments constitutifs d’une roue sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’écrou,"
+          },
+          {
+            "id": "2",
+            "text": "La couverture,"
+          },
+          {
+            "id": "3",
+            "text": "La toile,"
+          },
+          {
+            "id": "4",
+            "text": "La jante."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "IMR 9"
+      },
+      {
+        "id": 78,
+        "question": "Les éléments constitutifs d’une roue sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le moyeu,"
+          },
+          {
+            "id": "2",
+            "text": "La couverture,"
+          },
+          {
+            "id": "3",
+            "text": "Le pneu,"
+          },
+          {
+            "id": "4",
+            "text": "La jante."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "IMR 9bis"
+      },
+      {
+        "id": 79,
+        "question": "Sur un engin moteur, la suspension située entre la roue et le châssis de bogie s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La suspension principale,"
+          },
+          {
+            "id": "2",
+            "text": "La suspension primaire,"
+          },
+          {
+            "id": "3",
+            "text": "La suspension secondaire,"
+          },
+          {
+            "id": "4",
+            "text": "La suspension intermédiaire."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 10"
+      },
+      {
+        "id": 80,
+        "question": "Le conducteur assure le décollage d’un train, il doit créer :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un effort moteur,"
+          },
+          {
+            "id": "2",
+            "text": "Un effort retardateur,"
+          },
+          {
+            "id": "3",
+            "text": "Un effort de retenue."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 11"
+      },
+      {
+        "id": 81,
+        "question": "Les éléments constitutifs des organes de traction sont :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un crochet d’attelage et un tendeur de traction,"
+          },
+          {
+            "id": "2",
+            "text": "Un tendeur à crochets et un attelage de traction,"
+          },
+          {
+            "id": "3",
+            "text": "Un crochet de traction et un tendeur d’attelage."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 12"
+      },
+      {
+        "id": 82,
+        "question": "Les tampons et les boisseaux sont :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les organes de tamponnement,"
+          },
+          {
+            "id": "2",
+            "text": "Les organes de choc,"
+          },
+          {
+            "id": "3",
+            "text": "Les organes de friction,"
+          },
+          {
+            "id": "4",
+            "text": "Les organes de compression."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 13"
+      },
+      {
+        "id": 83,
+        "question": "Sur un véhicule ordinaire, le système de freinage est un dispositif fonctionnant par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Air comprimé,"
+          },
+          {
+            "id": "2",
+            "text": "Ressort,"
+          },
+          {
+            "id": "3",
+            "text": "Hydraulique,"
+          },
+          {
+            "id": "4",
+            "text": "Electromécanique."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 14"
+      },
+      {
+        "id": 84,
+        "question": "La conduite utilisée, pour alimenter les équipements de frein d’un véhicule, s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La conduite blanche,"
+          },
+          {
+            "id": "2",
+            "text": "La conduite secondaire,"
+          },
+          {
+            "id": "3",
+            "text": "La conduite générale."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 15"
+      },
+      {
+        "id": 85,
+        "question": "La liaison entre les essieux et le châssis de bogie est réalisée par ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le pivot,"
+          },
+          {
+            "id": "2",
+            "text": "Les barres de traction,"
+          },
+          {
+            "id": "3",
+            "text": "Les boîtes d’essieux,"
+          },
+          {
+            "id": "4",
+            "text": "La suspension."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 16"
+      },
+      {
+        "id": 86,
+        "question": "Quels modes de traction sont utilisés en France sur les EM :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Traction pneumatique,"
+          },
+          {
+            "id": "2",
+            "text": "Traction thermique,"
+          },
+          {
+            "id": "3",
+            "text": "Traction électrique,"
+          },
+          {
+            "id": "4",
+            "text": "Traction hydraulique."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "IMR 25"
+      },
+      {
+        "id": 87,
+        "question": "Un train qui circule en pente a tendance à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Prendre de la vitesse,"
+          },
+          {
+            "id": "2",
+            "text": "Ralentir,"
+          },
+          {
+            "id": "3",
+            "text": "S’arrêter."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 26"
+      },
+      {
+        "id": 88,
+        "question": "Pour mettre un engin moteur sous tension, je provoque la fermeture du :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Contacteur,"
+          },
+          {
+            "id": "2",
+            "text": "Disrupteur,"
+          },
+          {
+            "id": "3",
+            "text": "Disjoncteur,"
+          },
+          {
+            "id": "4",
+            "text": "Condensateur."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 27"
+      },
+      {
+        "id": 89,
+        "question": "Sur une locomotive électrique, l’appareil servant à capter le courant à la caténaire se nomme :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La ligne de toiture,"
+          },
+          {
+            "id": "2",
+            "text": "Le pantographe,"
+          },
+          {
+            "id": "3",
+            "text": "Le commutateur,"
+          },
+          {
+            "id": "4",
+            "text": "Le capteur."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 28"
+      },
+      {
+        "id": 90,
+        "question": "L’effort de freinage est efficace lorsqu’il y a :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Glissement de la roue sur le rail,"
+          },
+          {
+            "id": "2",
+            "text": "Adhérence de la roue sur le rail,"
+          },
+          {
+            "id": "3",
+            "text": "Un effort de freinage supérieur à la limite d’adhérence,"
+          },
+          {
+            "id": "4",
+            "text": "Effort de freinage inférieur à la limite d’adhérence."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "IMR 29"
+      },
+      {
+        "id": 91,
+        "question": "Quelles sont les avantages du contact roue sur rail :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Permettre un bon roulement,"
+          },
+          {
+            "id": "2",
+            "text": "Favoriser l’adhérence,"
+          },
+          {
+            "id": "3",
+            "text": "Nécessite peu d’efforts de traction,"
+          },
+          {
+            "id": "4",
+            "text": "Facilite le freinage."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "IMR 30"
+      },
+      {
+        "id": 92,
+        "question": "Pour démarrer un train il faut :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un glissement de la roue sur le rail,"
+          },
+          {
+            "id": "2",
+            "text": "Une adhérence de la roue sur le rail,"
+          },
+          {
+            "id": "3",
+            "text": "Que l’effort moteur soit supérieur à la limite d’adhérence,"
+          },
+          {
+            "id": "4",
+            "text": "Que l’effort moteur soit inférieur à la limite d’adhérence."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "IMR 31"
+      },
+      {
+        "id": 93,
+        "question": "Pour mettre en mouvement un train il faut :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un glissement de la roue sur le rail,"
+          },
+          {
+            "id": "2",
+            "text": "Une adhérence de la roue sur le rail,"
+          },
+          {
+            "id": "3",
+            "text": "Que l’effort moteur soit supérieur à la limite d’adhérence,"
+          },
+          {
+            "id": "4",
+            "text": "Que l’effort moteur soit inférieur à la limite d’adhérence."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "IMR 31bis"
+      },
+      {
+        "id": 94,
+        "question": "Quand la roue tourne sur place lors d’un démarrage, ce phénomène est appelé :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Glissement,"
+          },
+          {
+            "id": "2",
+            "text": "Décollage,"
+          },
+          {
+            "id": "3",
+            "text": "Patinage,"
+          },
+          {
+            "id": "4",
+            "text": "Enrayage."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 32"
+      },
+      {
+        "id": 95,
+        "question": "Quand la roue tourne sans mise en mouvement lors d’un démarrage, ce phénomène est appelé :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Glissement,"
+          },
+          {
+            "id": "2",
+            "text": "Décollage,"
+          },
+          {
+            "id": "3",
+            "text": "Patinage,"
+          },
+          {
+            "id": "4",
+            "text": "Enrayage."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 32bis"
+      },
+      {
+        "id": 96,
+        "question": "Un train qui circule en rampe a tendance à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Prendre de la vitesse,"
+          },
+          {
+            "id": "2",
+            "text": "Ralentir,"
+          },
+          {
+            "id": "3",
+            "text": "S’arrêter."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 33"
+      },
+      {
+        "id": 97,
+        "question": "Quand la roue ne tourne plus lors d’un freinage, ce phénomène est appelé :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Glissement,"
+          },
+          {
+            "id": "2",
+            "text": "Décollage,"
+          },
+          {
+            "id": "3",
+            "text": "Patinage,"
+          },
+          {
+            "id": "4",
+            "text": "Enrayage."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "IMR 34"
+      },
+      {
+        "id": 98,
+        "question": "Un train qui circule en palier a tendance à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Prendre de la vitesse,"
+          },
+          {
+            "id": "2",
+            "text": "Maintenir sa vitesse,"
+          },
+          {
+            "id": "3",
+            "text": "A s’arrêter."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 35"
+      },
+      {
+        "id": 99,
+        "question": "Le conducteur pour maintenir la vitesse de son train en pente doit :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Augmenter l’effort de traction,"
+          },
+          {
+            "id": "2",
+            "text": "Supprimer l’effort de traction,"
+          },
+          {
+            "id": "3",
+            "text": "Freiner."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR 36"
+      },
+      {
+        "id": 100,
+        "question": "Le conducteur pour maintenir la vitesse de son train en rampe doit :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Augmenter l’effort de traction,"
+          },
+          {
+            "id": "2",
+            "text": "Supprimer l’effort de traction,"
+          },
+          {
+            "id": "3",
+            "text": "Mettre les freins en action."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 37"
+      },
+      {
+        "id": 101,
+        "question": "Le conducteur pour maintenir la vitesse de son train en palier doit :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Augmenter l’effort de traction,"
+          },
+          {
+            "id": "2",
+            "text": "Maintenir l’effort de traction,"
+          },
+          {
+            "id": "3",
+            "text": "Mettre les freins en action."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 38"
+      },
+      {
+        "id": 102,
+        "question": "Pour augmenter les conditions d’adhérence (roue/rail) le conducteur met en action :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les graisseurs de boudins,"
+          },
+          {
+            "id": "2",
+            "text": "Les sablières,"
+          },
+          {
+            "id": "3",
+            "text": "L’effort traction."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 39"
+      },
+      {
+        "id": 103,
+        "question": "L’éjection du sable sur le rail permet :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "D’améliorer l’adhérence,"
+          },
+          {
+            "id": "2",
+            "text": "De favoriser les patinages,"
+          },
+          {
+            "id": "3",
+            "text": "De nettoyer le rail."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 40"
+      },
+      {
+        "id": 104,
+        "question": "Le contact fer/fer :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Favorise le roulement,"
+          },
+          {
+            "id": "2",
+            "text": "Favorise l’adhérence,"
+          },
+          {
+            "id": "3",
+            "text": "Favorise le freinage."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 41"
+      },
+      {
+        "id": 105,
+        "question": "Les patinages sont principalement à craindre :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "En été,"
+          },
+          {
+            "id": "2",
+            "text": "En automne,"
+          },
+          {
+            "id": "3",
+            "text": "Au printemps."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR 42"
+      },
+      {
+        "id": 106,
+        "question": "Les conditions d’adhérence sont améliorées par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Temps sec,"
+          },
+          {
+            "id": "2",
+            "text": "Temps humide,"
+          },
+          {
+            "id": "3",
+            "text": "La nuit."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR 43"
+      },
+      {
+        "id": 107,
+        "question": "Pour chaque mission, quels sont les documents nécessaires à la conduite du train ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret de procédures,"
+          },
+          {
+            "id": "2",
+            "text": "Le livret ligne,"
+          },
+          {
+            "id": "3",
+            "text": "La carte du réseau,"
+          },
+          {
+            "id": "4",
+            "text": "Le journal d’entreprise."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "DOC 1"
+      },
+      {
+        "id": 108,
+        "question": "Pour chaque mission, quels sont les documents nécessaires à la conduite du train ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret de procédures,"
+          },
+          {
+            "id": "2",
+            "text": "Les schémas de signalisation,"
+          },
+          {
+            "id": "3",
+            "text": "Les informations horaires,"
+          },
+          {
+            "id": "4",
+            "text": "La carte du réseau."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "DOC 2"
+      },
+      {
+        "id": 109,
+        "question": "La documentation métier est fournie aux conducteurs par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’employeur,"
+          },
+          {
+            "id": "2",
+            "text": "Le centre de formation,"
+          },
+          {
+            "id": "3",
+            "text": "Le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "4",
+            "text": "L’EPSF."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "DOC 3"
+      },
+      {
+        "id": 110,
+        "question": "Les éléments figurant dans le livret de procédures sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La composition de la journée de service,"
+          },
+          {
+            "id": "2",
+            "text": "L’exploitation en situation normale,"
+          },
+          {
+            "id": "3",
+            "text": "L’exploitation en situation d’urgence,"
+          },
+          {
+            "id": "4",
+            "text": "Les informations horaires."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "DOC 4"
+      },
+      {
+        "id": 111,
+        "question": "Les procédures nécessaires au conducteur sont reprises dans :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret de service,"
+          },
+          {
+            "id": "2",
+            "text": "Les procédures de communication,"
+          },
+          {
+            "id": "3",
+            "text": "La feuille de route,"
+          },
+          {
+            "id": "4",
+            "text": "Le document de formation,"
+          },
+          {
+            "id": "5",
+            "text": "Le livret de procédures."
+          }
+        ],
+        "correctAnswers": [
+          "5"
+        ],
+        "code": "DOC 5"
+      },
+      {
+        "id": 112,
+        "question": "Les thèmes repris dans le livret de procédures sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La signalisation,"
+          },
+          {
+            "id": "2",
+            "text": "Les règles de maintenance de l’Infrastructure,"
+          },
+          {
+            "id": "3",
+            "text": "La sécurité du personnel,"
+          },
+          {
+            "id": "4",
+            "text": "L’organisation de l’exploitation du réseau,"
+          },
+          {
+            "id": "5",
+            "text": "Les incidents."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "5"
+        ],
+        "code": "DOC 6"
+      },
+      {
+        "id": 113,
+        "question": "Le manuel des procédures de communication et le livret de formulaires utilisés sur plusieurs Infrastructures européennes sont rédigés :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Obligatoirement en langue anglaise,"
+          },
+          {
+            "id": "2",
+            "text": "Dans la langue « opérationnelle » du gestionnaire de l’infrastructure parcourue,"
+          },
+          {
+            "id": "3",
+            "text": "Dans toutes les langues des pays membres de la CE."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "DOC 7"
+      },
+      {
+        "id": 114,
+        "question": "Le livret de procédures contient :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les itinéraires parcourus,"
+          },
+          {
+            "id": "2",
+            "text": "Les procédures d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "Le bulletin de freinage,"
+          },
+          {
+            "id": "4",
+            "text": "Les procédures d’utilisation du matériel."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "DOC 8"
+      },
+      {
+        "id": 115,
+        "question": "Le document qui renseigne le conducteur sur une ligne ferroviaire s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Le document horaire,"
+          },
+          {
+            "id": "3",
+            "text": "Le document infrastructure,"
+          },
+          {
+            "id": "4",
+            "text": "La carte du réseau."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "DOC 9"
+      },
+      {
+        "id": 116,
+        "question": "Le livret ligne utilisé par le conducteur est :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un document papier ou informatique,"
+          },
+          {
+            "id": "2",
+            "text": "Remis par le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "3",
+            "text": "Remis par l’employeur,"
+          },
+          {
+            "id": "4",
+            "text": "Rédigé par le conducteur."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "DOC 10"
+      },
+      {
+        "id": 117,
+        "question": "La description d’une ligne contient les informations suivantes :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’indication des pentes et rampes,"
+          },
+          {
+            "id": "2",
+            "text": "Le schéma de la ligne,"
+          },
+          {
+            "id": "3",
+            "text": "La position de tous les signaux,"
+          },
+          {
+            "id": "4",
+            "text": "Les horaires à respecter."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "DOC 11"
+      },
+      {
+        "id": 118,
+        "question": "La description d’une ligne contient les informations suivantes :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nom des ateliers de maintenance du matériel,"
+          },
+          {
+            "id": "2",
+            "text": "Le nom des entités en charge de la gestion du trafic,"
+          },
+          {
+            "id": "3",
+            "text": "Le gabarit des voies,"
+          },
+          {
+            "id": "4",
+            "text": "Les limites de vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "DOC 12"
+      },
+      {
+        "id": 119,
+        "question": "Les modifications des informations contenues dans le livret ligne sont transmises au conducteur par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’EPSF,"
+          },
+          {
+            "id": "2",
+            "text": "Le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "3",
+            "text": "L’employeur."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "DOC 13"
+      },
+      {
+        "id": 120,
+        "question": "Le document intitulé « informations horaires » est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le document qui précise la marche du train,"
+          },
+          {
+            "id": "2",
+            "text": "Une fiche technique,"
+          },
+          {
+            "id": "3",
+            "text": "La liste des points de jalonnement,"
+          },
+          {
+            "id": "4",
+            "text": "Le document qui précise les horaires de la journée de service."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "DOC 14"
+      },
+      {
+        "id": 121,
+        "question": "Les informations horaires sont utiles au conducteur pour :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Définir le type d’infrastructure,"
+          },
+          {
+            "id": "2",
+            "text": "Respecter la signalisation,"
+          },
+          {
+            "id": "3",
+            "text": "Assurer la régularité des circulations,"
+          },
+          {
+            "id": "4",
+            "text": "Déterminer les points d’arrêt prévus."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "DOC 15"
+      },
+      {
+        "id": 122,
+        "question": "Les informations horaires données au conducteur sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les jours de circulation,"
+          },
+          {
+            "id": "2",
+            "text": "Les points d’arrêt prévus,"
+          },
+          {
+            "id": "3",
+            "text": "Les jours fériés,"
+          },
+          {
+            "id": "4",
+            "text": "Les heures d’ouverture des établissements."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "DOC 16"
+      },
+      {
+        "id": 123,
+        "question": "Les informations horaires données au conducteur sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les points de maintenance,"
+          },
+          {
+            "id": "2",
+            "text": "Les points d’arrivée et de départ,"
+          },
+          {
+            "id": "3",
+            "text": "Les points de passage,"
+          },
+          {
+            "id": "4",
+            "text": "Les points d’avitaillement."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "DOC 17"
+      },
+      {
+        "id": 124,
+        "question": "Quels sont les deux appendices que le livret de procédures contient ? :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Le manuel des procédures de communication,"
+          },
+          {
+            "id": "3",
+            "text": "Les informations horaires,"
+          },
+          {
+            "id": "4",
+            "text": "Le livret de formulaires."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "DOC 18"
+      },
+      {
+        "id": 125,
+        "question": "Les informations en temps réel concernant des modifications de l’infrastructure sont transmises au conducteur par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’EPSF,"
+          },
+          {
+            "id": "2",
+            "text": "Le gestionnaire d’Infrastructure,"
+          },
+          {
+            "id": "3",
+            "text": "L’employeur."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "DOC 19"
+      },
+      {
+        "id": 126,
+        "question": "Le conducteur détermine le régime d’exploitation de la section de ligne, en consultant :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les renseignements théoriques,"
+          },
+          {
+            "id": "2",
+            "text": "Le livret ligne,"
+          },
+          {
+            "id": "3",
+            "text": "Les renseignements téléphoniques,"
+          },
+          {
+            "id": "4",
+            "text": "La documentation personnelle."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 2"
+      },
+      {
+        "id": 127,
+        "question": "Quels types d’essais sont réalisés par les conducteurs :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les essais de frein,"
+          },
+          {
+            "id": "2",
+            "text": "Les essais de vitesse maximale,"
+          },
+          {
+            "id": "3",
+            "text": "Les essais des systèmes embarqués,"
+          },
+          {
+            "id": "4",
+            "text": "Les essais des torches à flamme rouge."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "CMT 3"
+      },
+      {
+        "id": 128,
+        "question": "En respectant les principes de méthode de travail, qu’implique systématiquement au conducteur, une action ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Une autre action,"
+          },
+          {
+            "id": "2",
+            "text": "Une ou plusieurs vérifications,"
+          },
+          {
+            "id": "3",
+            "text": "La consultation d’un document,"
+          },
+          {
+            "id": "4",
+            "text": "L’arrêt immédiat."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 4"
+      },
+      {
+        "id": 129,
+        "question": "Les téléphones d’alarme vous mettent en relation avec :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’agent circulation de la gare suivante,"
+          },
+          {
+            "id": "2",
+            "text": "Le régulateur transport,"
+          },
+          {
+            "id": "3",
+            "text": "Le ministère de la Défense,"
+          },
+          {
+            "id": "4",
+            "text": "Le régulateur sous station."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "CMT 5"
+      },
+      {
+        "id": 130,
+        "question": "Comment identifiez-vous les téléphones d’alarme ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Repérage vert,"
+          },
+          {
+            "id": "2",
+            "text": "Repérage rouge,"
+          },
+          {
+            "id": "3",
+            "text": "Pas de signe de reconnaissance."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 6"
+      },
+      {
+        "id": 131,
+        "question": "Dans quelle situation, le conducteur peut-il utiliser la radio sol train, en phonie ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "A l’arrêt,"
+          },
+          {
+            "id": "2",
+            "text": "En conduisant sur signaux voie libre,"
+          },
+          {
+            "id": "3",
+            "text": "Pour convenance personnelle,"
+          },
+          {
+            "id": "4",
+            "text": "Lors d’une phase d’arrêt,"
+          },
+          {
+            "id": "5",
+            "text": "Dans le respect de la signalisation restrictive."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "CMT 7"
+      },
+      {
+        "id": 132,
+        "question": "À quel moment un conducteur peut-il réceptionner une dépêche :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "A l’arrêt,"
+          },
+          {
+            "id": "2",
+            "text": "En conduisant sur signaux voie libre,"
+          },
+          {
+            "id": "3",
+            "text": "Sur respect de la signalisation,"
+          },
+          {
+            "id": "4",
+            "text": "Lors d’une phase de mise en vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CMT 8"
+      },
+      {
+        "id": 133,
+        "question": "Lors des communications radio, « train 2024 » se dit :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Train deux mille vingt-quatre,"
+          },
+          {
+            "id": "2",
+            "text": "Train vingt vingt-quatre,"
+          },
+          {
+            "id": "3",
+            "text": "Train deux zéro deux quatre,"
+          },
+          {
+            "id": "4",
+            "text": "Train deux cent deux quatre."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CMT 11"
+      },
+      {
+        "id": 134,
+        "question": "Quelles expressions employez-vous lors d’une communication « radio », pour transmettre la parole :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "« À toi »,"
+          },
+          {
+            "id": "2",
+            "text": "« Parlez »,"
+          },
+          {
+            "id": "3",
+            "text": "« À vous »,"
+          },
+          {
+            "id": "4",
+            "text": "« Fini »."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "CMT 12"
+      },
+      {
+        "id": 135,
+        "question": "Quelle expression devez-vous entendre, pour être certain que votre interlocuteur a bien entendu votre message ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "« OK »,"
+          },
+          {
+            "id": "2",
+            "text": "« Reçu »,"
+          },
+          {
+            "id": "3",
+            "text": "« Vu »."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 13"
+      },
+      {
+        "id": 136,
+        "question": "Quelle formule vous permet de faire répéter votre interlocuteur, en cas de mauvaise réception ou de mauvaise compréhension ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "« Mal reçu »,"
+          },
+          {
+            "id": "2",
+            "text": "« Répétez »,"
+          },
+          {
+            "id": "3",
+            "text": "« Quoi ? Je n’ai pas compris »,"
+          },
+          {
+            "id": "4",
+            "text": "« Comment ? »."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 14"
+      },
+      {
+        "id": 137,
+        "question": "Quel terme vous permet de signifier que le message collationné est conforme au message émis ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "« Correct »,"
+          },
+          {
+            "id": "2",
+            "text": "« Parfait »,"
+          },
+          {
+            "id": "3",
+            "text": "« Bien reçu »,"
+          },
+          {
+            "id": "4",
+            "text": "« Bon »."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CMT 15"
+      },
+      {
+        "id": 138,
+        "question": "Quelle expression vous permet de signifier que le message collationné n’est pas conforme au message émis ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "« Incorrect »,"
+          },
+          {
+            "id": "2",
+            "text": "« Pas juste »,"
+          },
+          {
+            "id": "3",
+            "text": "« Pas bon »,"
+          },
+          {
+            "id": "4",
+            "text": "« Erreur »."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "CMT 16"
+      },
+      {
+        "id": 139,
+        "question": "Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « T » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Target,"
+          },
+          {
+            "id": "2",
+            "text": "Time,"
+          },
+          {
+            "id": "3",
+            "text": "Tango,"
+          },
+          {
+            "id": "4",
+            "text": "Train."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CMT 17"
+      },
+      {
+        "id": 140,
+        "question": "Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « R » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Roger,"
+          },
+          {
+            "id": "2",
+            "text": "Roméo,"
+          },
+          {
+            "id": "3",
+            "text": "Rex,"
+          },
+          {
+            "id": "4",
+            "text": "Rail."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 18"
+      },
+      {
+        "id": 141,
+        "question": "Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « A » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Alpha,"
+          },
+          {
+            "id": "2",
+            "text": "Alma,"
+          },
+          {
+            "id": "3",
+            "text": "Aïda,"
+          },
+          {
+            "id": "4",
+            "text": "Alain."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CMT 19"
+      },
+      {
+        "id": 142,
+        "question": "Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « I » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Indien,"
+          },
+          {
+            "id": "2",
+            "text": "India,"
+          },
+          {
+            "id": "3",
+            "text": "Inch,"
+          },
+          {
+            "id": "4",
+            "text": "Initiale."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 20"
+      },
+      {
+        "id": 143,
+        "question": "Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « N » ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Nike,"
+          },
+          {
+            "id": "2",
+            "text": "Nylon,"
+          },
+          {
+            "id": "3",
+            "text": "November,"
+          },
+          {
+            "id": "4",
+            "text": "Nathalie."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CMT 21"
+      },
+      {
+        "id": 144,
+        "question": "Lors de la conduite de son train, le conducteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Est autorisé à écouter la radio ou son baladeur,"
+          },
+          {
+            "id": "2",
+            "text": "Est autorisé à prendre connaissance de la presse ou d’autres média,"
+          },
+          {
+            "id": "3",
+            "text": "Est autorisé à se détendre dans un demi-sommeil, uniquement dans les phases ou la conduite le permet,"
+          },
+          {
+            "id": "4",
+            "text": "N’est autorisé à aucun des cas ci-dessus."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "CMT 23"
+      },
+      {
+        "id": 145,
+        "question": "En cas de manquement du conducteur à une obligation de sécurité ou par négligence qui occasionneraient des blessures ou la mort d’autrui, le conducteur :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "N’est pas inquiété, ce cas est couvert par les assurances de l’entreprise ferroviaire,"
+          },
+          {
+            "id": "2",
+            "text": "Peut faire l’objet de sanction d’ordre administrative,"
+          },
+          {
+            "id": "3",
+            "text": "Peut faire l’objet de poursuite judiciaire,"
+          },
+          {
+            "id": "4",
+            "text": "N’est pas inquiété, ce cas est couvert par sa licence européenne."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "CMT 24"
+      },
+      {
+        "id": 146,
+        "question": "Le conducteur signale une anomalie à l’infrastructure au moyen d’un formulaire du « livret procédures pour le conducteur » :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Il le transmet à l’EPSF,"
+          },
+          {
+            "id": "2",
+            "text": "Il le transmet au GID,"
+          },
+          {
+            "id": "3",
+            "text": "Il le transmet à l’EF."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "CMT 26"
+      },
+      {
+        "id": 147,
+        "question": "Lors de la conduite de son train, le conducteur :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Doit s’efforcer de prendre le maximum possible d’avance,"
+          },
+          {
+            "id": "2",
+            "text": "Doit s’efforcer de circuler dans le respect de l’horaire,"
+          },
+          {
+            "id": "3",
+            "text": "Doit utiliser le profil de la voie afin d’économiser l’énergie,"
+          },
+          {
+            "id": "4",
+            "text": "Doit gérer sa conduite à sa convenance."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "CMT 27"
+      },
+      {
+        "id": 148,
+        "question": "Respecter la marche tracée prévue (respect de l’horaire), permet :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "D’économiser l’énergie (électricité, gas-oil),"
+          },
+          {
+            "id": "2",
+            "text": "De circuler avec des signaux ouverts,"
+          },
+          {
+            "id": "3",
+            "text": "D’économiser les freins,"
+          },
+          {
+            "id": "4",
+            "text": "De finir plus tôt son travail,"
+          },
+          {
+            "id": "5",
+            "text": "De moins se soucier des règles de sécurité."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2",
+          "3"
+        ],
+        "code": "CMT 28"
+      },
+      {
+        "id": 149,
+        "question": "Quel mode de traction favorise la protection de l’environnement :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Thermique,"
+          },
+          {
+            "id": "2",
+            "text": "Electrique,"
+          },
+          {
+            "id": "3",
+            "text": "Vapeur."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT 29"
+      },
+      {
+        "id": 150,
+        "question": "Quelle expression vous permet de signifier l’interruption définitive de la communication ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "« Fin »,"
+          },
+          {
+            "id": "2",
+            "text": "« Stop »,"
+          },
+          {
+            "id": "3",
+            "text": "« Attendez »,"
+          },
+          {
+            "id": "4",
+            "text": "« Terminé »."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "CMT 30"
+      },
+      {
+        "id": 151,
+        "question": "Lorsque 2 trains circulent dans le même sens, sur la même voie, il y a risque de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Rattrapage,"
+          },
+          {
+            "id": "2",
+            "text": "Collision frontale,"
+          },
+          {
+            "id": "3",
+            "text": "Déraillement,"
+          },
+          {
+            "id": "4",
+            "text": "Collision avec un obstacle."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "REF 1"
+      },
+      {
+        "id": 152,
+        "question": "Parmi ces risques, identifier les risques ferroviaires :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Enrayage,"
+          },
+          {
+            "id": "2",
+            "text": "Patinage,"
+          },
+          {
+            "id": "3",
+            "text": "Rattrapage,"
+          },
+          {
+            "id": "4",
+            "text": "Déraillement."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "REF 2"
+      },
+      {
+        "id": 153,
+        "question": "Quel moyen permet d’éviter le risque du rattrapage ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "La limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "La protection des obstacles,"
+          },
+          {
+            "id": "5",
+            "text": "Les signaux de protection."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "REF 3"
+      },
+      {
+        "id": 154,
+        "question": "Quel risque peut être évité par le cantonnement ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "2",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "3",
+            "text": "La prise en écharpe,"
+          },
+          {
+            "id": "4",
+            "text": "Le déraillement,"
+          },
+          {
+            "id": "5",
+            "text": "L’obstacle."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "REF 3bis"
+      },
+      {
+        "id": 155,
+        "question": "Le rattrapage de deux trains de même sens est évité par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le block,"
+          },
+          {
+            "id": "2",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "3",
+            "text": "Rien car cela n’est pas possible,"
+          },
+          {
+            "id": "4",
+            "text": "La distance de visibilité dont dispose le conducteur."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "REF 4"
+      },
+      {
+        "id": 156,
+        "question": "Le rattrapage de deux trains de même sens est évité par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’ouverture d’un signal,"
+          },
+          {
+            "id": "2",
+            "text": "La division d’une ligne en cantons,"
+          },
+          {
+            "id": "3",
+            "text": "Le respect d’une même vitesse pour tous les trains,"
+          },
+          {
+            "id": "4",
+            "text": "La fermeture d’un signal."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "REF 5"
+      },
+      {
+        "id": 157,
+        "question": "Lorsque 2 trains circulent en sens contraire, sur la même voie, le risque s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le tête-à-tête,"
+          },
+          {
+            "id": "2",
+            "text": "Le coup de bélier,"
+          },
+          {
+            "id": "3",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "4",
+            "text": "Le rattrapage."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "REF 6"
+      },
+      {
+        "id": 158,
+        "question": "Quels moyens permettent d’éviter le risque du nez à nez ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "La limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "La protection des obstacles,"
+          },
+          {
+            "id": "5",
+            "text": "Les signaux de protection."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "5"
+        ],
+        "code": "REF 7"
+      },
+      {
+        "id": 159,
+        "question": "Quels risques peuvent être évités par les signaux de protection ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "2",
+            "text": "La dérive,"
+          },
+          {
+            "id": "3",
+            "text": "La prise en écharpe,"
+          },
+          {
+            "id": "4",
+            "text": "Le déraillement."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "REF 8"
+      },
+      {
+        "id": 160,
+        "question": "Parmi ces risques, identifier les risques ferroviaires :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Obstacle,"
+          },
+          {
+            "id": "2",
+            "text": "Accident de personnes,"
+          },
+          {
+            "id": "3",
+            "text": "Prise en écharpe,"
+          },
+          {
+            "id": "4",
+            "text": "Nez à nez,"
+          },
+          {
+            "id": "5",
+            "text": "Incendie."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "4"
+        ],
+        "code": "REF 9"
+      },
+      {
+        "id": 161,
+        "question": "Lorsque 2 trains circulent sur des itinéraires convergents, le risque s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "2",
+            "text": "La prise multiple,"
+          },
+          {
+            "id": "3",
+            "text": "La prise de clé,"
+          },
+          {
+            "id": "4",
+            "text": "La prise en écharpe."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "REF 10"
+      },
+      {
+        "id": 162,
+        "question": "Quel moyen permet d’éviter le risque de la prise en écharpe ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "La limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "La protection des obstacles,"
+          },
+          {
+            "id": "5",
+            "text": "Les signaux de protection."
+          }
+        ],
+        "correctAnswers": [
+          "5"
+        ],
+        "code": "REF 11"
+      },
+      {
+        "id": 163,
+        "question": "Dans certaines courbes, la vitesse d’un train est réduite pour éviter le risque de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Dérayage,"
+          },
+          {
+            "id": "2",
+            "text": "Déraillement,"
+          },
+          {
+            "id": "3",
+            "text": "Glissement."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "REF 12"
+      },
+      {
+        "id": 164,
+        "question": "Quel moyen permet d’éviter le risque du déraillement ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "La limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "Les signaux de protection."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "REF 13"
+      },
+      {
+        "id": 165,
+        "question": "Quel risque peut être évité par le respect des limitations de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "2",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "3",
+            "text": "La prise en écharpe,"
+          },
+          {
+            "id": "4",
+            "text": "Le déraillement,"
+          },
+          {
+            "id": "5",
+            "text": "L’obstacle."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "REF 13bis"
+      },
+      {
+        "id": 166,
+        "question": "Comment appelle-t-on un danger sur la voie de circulation ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un obstacle inopiné,"
+          },
+          {
+            "id": "2",
+            "text": "Une protection inopinée,"
+          },
+          {
+            "id": "3",
+            "text": "Une circulation inopinée."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "REF 14"
+      },
+      {
+        "id": 167,
+        "question": "Quel moyen permet d’éviter le heurt d’un obstacle ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "3",
+            "text": "La limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "La protection des obstacles."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "REF 15"
+      },
+      {
+        "id": 168,
+        "question": "Les wagons transportant des matières dangereuses doivent porter une indication précisant :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’identité du transporteur,"
+          },
+          {
+            "id": "2",
+            "text": "La nature des dangers,"
+          },
+          {
+            "id": "3",
+            "text": "Les précautions à prendre en cas de fortes chaleurs,"
+          },
+          {
+            "id": "4",
+            "text": "Les mesures à prendre en cas de gel."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "REF 16"
+      },
+      {
+        "id": 169,
+        "question": "En cas d’incendie, le conducteur :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Doit utiliser les extincteurs,"
+          },
+          {
+            "id": "2",
+            "text": "Ne doit pas utiliser les extincteurs,"
+          },
+          {
+            "id": "3",
+            "text": "Choisit le point d’arrêt du train,"
+          },
+          {
+            "id": "4",
+            "text": "Ne choisit pas le point d’arrêt du train."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "REF 17"
+      },
+      {
+        "id": 170,
+        "question": "Le système d’espacement des trains se nomme :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le jalonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Le cantonnement,"
+          },
+          {
+            "id": "3",
+            "text": "Le stationnement,"
+          },
+          {
+            "id": "4",
+            "text": "Le fonctionnement."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 1"
+      },
+      {
+        "id": 171,
+        "question": "Quels sont les modes de cantonnement :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le régime d’exploitation,"
+          },
+          {
+            "id": "2",
+            "text": "La voie unique,"
+          },
+          {
+            "id": "3",
+            "text": "Le block manuel,"
+          },
+          {
+            "id": "4",
+            "text": "Le block automatique."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "PST 2"
+      },
+      {
+        "id": 172,
+        "question": "Quels sont les avantages du block automatique :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Peu coûteux,"
+          },
+          {
+            "id": "2",
+            "text": "Niveau de sécurité élevé,"
+          },
+          {
+            "id": "3",
+            "text": "Augmente le débit de la ligne,"
+          },
+          {
+            "id": "4",
+            "text": "Limite les risques électriques."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST 3"
+      },
+      {
+        "id": 173,
+        "question": "Quel est le risque majeur en Voie Unique ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le déraillement,"
+          },
+          {
+            "id": "2",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "3",
+            "text": "L’obstacle,"
+          },
+          {
+            "id": "4",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "5",
+            "text": "La prise en écharpe."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST 4"
+      },
+      {
+        "id": 174,
+        "question": "Quel est le document qui précise le régime d’exploitation d’une ligne ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le livret ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Le document horaire,"
+          },
+          {
+            "id": "3",
+            "text": "La consigne d’organisation de l’entreprise ferroviaire,"
+          },
+          {
+            "id": "4",
+            "text": "La presse locale."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 5"
+      },
+      {
+        "id": 175,
+        "question": "Le terme « double voie », indique :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le mode de cantonnement d’une ligne,"
+          },
+          {
+            "id": "2",
+            "text": "Une ligne à écartement deux fois supérieur à la normale,"
+          },
+          {
+            "id": "3",
+            "text": "Le régime d’exploitation d’une ligne,"
+          },
+          {
+            "id": "4",
+            "text": "La voie qui permet un dépassement de train."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 6"
+      },
+      {
+        "id": 176,
+        "question": "Le terme « voie unique » indique :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le mode de cantonnement,"
+          },
+          {
+            "id": "2",
+            "text": "Une ligne à une seule voie,"
+          },
+          {
+            "id": "3",
+            "text": "Le régime d’exploitation d’une ligne,"
+          },
+          {
+            "id": "4",
+            "text": "Une ligne qui n’existe que sur le réseau RFN."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST 7"
+      },
+      {
+        "id": 177,
+        "question": "Le terme « double voie », indique que :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le nombre de voies est supérieur à un,"
+          },
+          {
+            "id": "2",
+            "text": "Le nombre de voies est égal à quatre,"
+          },
+          {
+            "id": "3",
+            "text": "Le nombre de voies est au moins de deux,"
+          },
+          {
+            "id": "4",
+            "text": "Le nombre de voies est au maximum de deux."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PST 8"
+      },
+      {
+        "id": 178,
+        "question": "Le terme « double voie », indique que :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Chaque voie est affectée des deux sens de circulation,"
+          },
+          {
+            "id": "2",
+            "text": "Chaque voie est affectée à un seul sens de circulation,"
+          },
+          {
+            "id": "3",
+            "text": "Ce sont deux voies uniques."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 9"
+      },
+      {
+        "id": 179,
+        "question": "Le terme « voie unique », indique que :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La voie est affectée aux deux sens de circulation,"
+          },
+          {
+            "id": "2",
+            "text": "La voie est affectée d’un seul sens de circulation,"
+          },
+          {
+            "id": "3",
+            "text": "Les trains des deux sens utilisent la même voie,"
+          },
+          {
+            "id": "4",
+            "text": "Les trains des deux sens n’utilisent pas la même voie."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PST 10"
+      },
+      {
+        "id": 180,
+        "question": "Sur « voie unique » la rencontre de deux trains de sens contraire est évitée par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’application de la réglementation,"
+          },
+          {
+            "id": "2",
+            "text": "Aucune mesure, car cela ne peut arriver,"
+          },
+          {
+            "id": "3",
+            "text": "Le freinage du train dès que le conducteur voit un train en face de lui."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 11"
+      },
+      {
+        "id": 181,
+        "question": "Le régime d’exploitation d’une ligne désigne :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le système d’espacement des trains,"
+          },
+          {
+            "id": "2",
+            "text": "Le système de signalisation,"
+          },
+          {
+            "id": "3",
+            "text": "Les règles d’exploitation,"
+          },
+          {
+            "id": "4",
+            "text": "Le régime de travail."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 12"
+      },
+      {
+        "id": 182,
+        "question": "Parmi les propositions ci-dessous, indiquez les agrès permettant d’arrêter les trains :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le signal d’arrêt à main,"
+          },
+          {
+            "id": "2",
+            "text": "Le pétard,"
+          },
+          {
+            "id": "3",
+            "text": "Le signal d’alerte radio,"
+          },
+          {
+            "id": "4",
+            "text": "La torche à flamme rouge,"
+          },
+          {
+            "id": "5",
+            "text": "La procédure gestuelle."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2",
+          "4"
+        ],
+        "code": "PST 13"
+      },
+      {
+        "id": 183,
+        "question": "Un « engin moteur en véhicule », c’est un engin :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Qui participe à la traction du train,"
+          },
+          {
+            "id": "2",
+            "text": "Qui ne participe pas à la traction du train,"
+          },
+          {
+            "id": "3",
+            "text": "Qui suit le train à distance,"
+          },
+          {
+            "id": "4",
+            "text": "Qui est non freiné."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 14"
+      },
+      {
+        "id": 184,
+        "question": "Lorsqu’un freinage pneumatique se produit depuis la tête de train, quelle est la réaction des wagons :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Ils freinent tous en même temps,"
+          },
+          {
+            "id": "2",
+            "text": "Ils se tassent vers l’avant,"
+          },
+          {
+            "id": "3",
+            "text": "Ils se tassent vers l’arrière."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 15"
+      },
+      {
+        "id": 185,
+        "question": "Quels sont les paramètres qui influent sur les performances du freinage d’un train :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La force du vent,"
+          },
+          {
+            "id": "2",
+            "text": "Les équipements de freinage,"
+          },
+          {
+            "id": "3",
+            "text": "La masse,"
+          },
+          {
+            "id": "4",
+            "text": "Le conducteur."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST 16"
+      },
+      {
+        "id": 186,
+        "question": "Un frein dit « continu automatique » :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "N’est commandé que depuis la locomotive,"
+          },
+          {
+            "id": "2",
+            "text": "Agit sur toute la longueur du train,"
+          },
+          {
+            "id": "3",
+            "text": "Agit seulement sur la locomotive,"
+          },
+          {
+            "id": "4",
+            "text": "Peut être mis en action depuis n’importe quel point du train."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "PST 17"
+      },
+      {
+        "id": 187,
+        "question": "Lorsque les conditions d’adhérence sont mauvaises, les distances d’arrêt sont :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Raccourcies,"
+          },
+          {
+            "id": "2",
+            "text": "Ne varient pas,"
+          },
+          {
+            "id": "3",
+            "text": "Allongées."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 18"
+      },
+      {
+        "id": 188,
+        "question": "Les trains de marchandises ont un freinage :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Rapide et progressif,"
+          },
+          {
+            "id": "2",
+            "text": "Rapide et immédiat,"
+          },
+          {
+            "id": "3",
+            "text": "Lent et progressif,"
+          },
+          {
+            "id": "4",
+            "text": "Lent et immédiat."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 19"
+      },
+      {
+        "id": 189,
+        "question": "Les trains de voyageurs ont un freinage :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Rapide et progressif,"
+          },
+          {
+            "id": "2",
+            "text": "Rapide et immédiat,"
+          },
+          {
+            "id": "3",
+            "text": "Lent et progressif,"
+          },
+          {
+            "id": "4",
+            "text": "Lent et immédiat."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 20"
+      },
+      {
+        "id": 190,
+        "question": "Les paramètres qui définissent le freinage des trains sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Sa masse,"
+          },
+          {
+            "id": "2",
+            "text": "Sa vitesse,"
+          },
+          {
+            "id": "3",
+            "text": "La spécificité du chargement,"
+          },
+          {
+            "id": "4",
+            "text": "La déclivité de la ligne."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2",
+          "4"
+        ],
+        "code": "PST 21"
+      },
+      {
+        "id": 191,
+        "question": "La distance d’arrêt d’un train de voyageurs circulant à la vitesse de 160km/h, lors d’un freinage d’urgence, est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "500 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "1200 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "3000 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 22"
+      },
+      {
+        "id": 192,
+        "question": "La distance d’arrêt d’un train de marchandises, circulant à la vitesse de 100km/h, lors d’un freinage d’urgence, est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "170 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "400 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "1000 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "3000 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 23"
+      },
+      {
+        "id": 193,
+        "question": "La distance d’arrêt d’un train de marchandises, circulant à la vitesse de 30km/h, lors d’un freinage d’urgence, est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "20 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "180 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "300 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "500 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 24"
+      },
+      {
+        "id": 194,
+        "question": "La distance d’arrêt d’un train de voyageurs, circulant à la vitesse maximum de 120km/h, lors d’un freinage d’urgence, est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "400 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "800 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "1500 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "3000 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 25"
+      },
+      {
+        "id": 195,
+        "question": "La distance d’arrêt d’un train de voyageurs, circulant à la vitesse de 30km/h, lors d’un freinage d’urgence est d’environ :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "20 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "100 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "300 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "500 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 26"
+      },
+      {
+        "id": 196,
+        "question": "Quels paramètres influent sur le freinage des trains :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La nature des marchandises,"
+          },
+          {
+            "id": "2",
+            "text": "L’implantation des signaux,"
+          },
+          {
+            "id": "3",
+            "text": "La vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "La masse des véhicules remorqués."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "PST 27"
+      },
+      {
+        "id": 197,
+        "question": "Quels paramètres influent sur la distance de freinage des trains :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La longueur,"
+          },
+          {
+            "id": "2",
+            "text": "L’adhérence,"
+          },
+          {
+            "id": "3",
+            "text": "Le nombre de voyageurs,"
+          },
+          {
+            "id": "4",
+            "text": "L’horaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST 28"
+      },
+      {
+        "id": 198,
+        "question": "Lorsque l’adhérence est dégradée en freinage :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les distances d’arrêt sont allongées,"
+          },
+          {
+            "id": "2",
+            "text": "Les distances d’arrêt sont raccourcies,"
+          },
+          {
+            "id": "3",
+            "text": "La puissance de freinage doit être réduite,"
+          },
+          {
+            "id": "4",
+            "text": "La puissance de freinage doit être renforcée."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PST 29"
+      },
+      {
+        "id": 199,
+        "question": "Vous circulez en « circulation normale, à gauche » sur voie principale. Les signaux s’adressant à vous sont implantés :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "À droite,"
+          },
+          {
+            "id": "2",
+            "text": "Au-dessus,"
+          },
+          {
+            "id": "3",
+            "text": "À gauche,"
+          },
+          {
+            "id": "4",
+            "text": "Entre les 2 fils de rail,"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST 30"
+      },
+      {
+        "id": 200,
+        "question": "La signalisation est généralement implantée :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "À gauche,"
+          },
+          {
+            "id": "2",
+            "text": "Des 2 côtés,"
+          },
+          {
+            "id": "3",
+            "text": "Uniquement au-dessus de la voie."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 32"
+      },
+      {
+        "id": 201,
+        "question": "Quel est le rôle des éclisses :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Assurer la liaison mécanique entre deux rails,"
+          },
+          {
+            "id": "2",
+            "text": "Assurer la liaison mécanique entre deux lames d’aiguille,"
+          },
+          {
+            "id": "3",
+            "text": "Assurer la liaison mécanique entre les traverses."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 49"
+      },
+      {
+        "id": 202,
+        "question": "Les signaux de protection sont utilisés pour :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrêter les trains,"
+          },
+          {
+            "id": "2",
+            "text": "Retenir les trains,"
+          },
+          {
+            "id": "3",
+            "text": "Accélérer la vitesse des trains,"
+          },
+          {
+            "id": "4",
+            "text": "Limiter la vitesse de trains."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST 59"
+      },
+      {
+        "id": 203,
+        "question": "Pour éviter une collision entre deux trains on utilise des signaux :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "D’annonce,"
+          },
+          {
+            "id": "2",
+            "text": "De limitation de vitesse,"
+          },
+          {
+            "id": "3",
+            "text": "De chantier,"
+          },
+          {
+            "id": "4",
+            "text": "De protection."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST 60"
+      },
+      {
+        "id": 204,
+        "question": "Pour indiquer la vitesse limite d’un train on utilise des signaux :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "D’ordre de vitesse,"
+          },
+          {
+            "id": "2",
+            "text": "D’augmentation de vitesse,"
+          },
+          {
+            "id": "3",
+            "text": "De limitation de vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "De manœuvre de vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 61"
+      },
+      {
+        "id": 205,
+        "question": "Un signal de protection peut être :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Commandé par un aiguilleur,"
+          },
+          {
+            "id": "2",
+            "text": "Automatique,"
+          },
+          {
+            "id": "3",
+            "text": "Commandé par le personnel de bord."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST 62"
+      },
+      {
+        "id": 206,
+        "question": "Une signalisation permanente est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Installée à demeure,"
+          },
+          {
+            "id": "2",
+            "text": "Installée provisoirement,"
+          },
+          {
+            "id": "3",
+            "text": "Installée temporairement."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 63"
+      },
+      {
+        "id": 207,
+        "question": "Quel moyen peut permettre au conducteur d’assurer la couverture d’un obstacle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le signal d’arrêt à main,"
+          },
+          {
+            "id": "2",
+            "text": "La plaque de queue,"
+          },
+          {
+            "id": "3",
+            "text": "Le carnet d’étiquettes."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 64"
+      },
+      {
+        "id": 208,
+        "question": "Quels moyens ci-dessous appartiennent à la catégorie « Protection des obstacles » ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les pétards,"
+          },
+          {
+            "id": "2",
+            "text": "La plaque de queue,"
+          },
+          {
+            "id": "3",
+            "text": "Le carnet d’étiquettes,"
+          },
+          {
+            "id": "4",
+            "text": "Le signal d’alerte radio."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PST 65"
+      },
+      {
+        "id": 209,
+        "question": "« Protéger un obstacle » consiste à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrêter les trains se dirigeant vers l’obstacle,"
+          },
+          {
+            "id": "2",
+            "text": "Aviser simplement de la présence de l’obstacle,"
+          },
+          {
+            "id": "3",
+            "text": "Ralentir les trains se dirigeant vers l’obstacle."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 66"
+      },
+      {
+        "id": 210,
+        "question": "Que doit faire un conducteur lors d’une gestion de situation d’obstacle ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Obtenir l’arrêt des autres trains,"
+          },
+          {
+            "id": "2",
+            "text": "Informer sans s’arrêter,"
+          },
+          {
+            "id": "3",
+            "text": "Alerter,"
+          },
+          {
+            "id": "4",
+            "text": "S’arrêter,"
+          },
+          {
+            "id": "5",
+            "text": "N’informer que les autres trains."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "4"
+        ],
+        "code": "PST 67"
+      },
+      {
+        "id": 211,
+        "question": "Le terme « voies principales » indique :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les voies qui relient les gares entres-elles,"
+          },
+          {
+            "id": "2",
+            "text": "Les voies qui sont dédiées à la circulation des trains de voyageurs,"
+          },
+          {
+            "id": "3",
+            "text": "Les voies de triage qui sont affectées au départ et à la réception des trains de marchandises,"
+          },
+          {
+            "id": "4",
+            "text": "Toutes les voies du Réseau Ferré National."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 68"
+      },
+      {
+        "id": 212,
+        "question": "Le ballast est à base de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Sable,"
+          },
+          {
+            "id": "2",
+            "text": "Graviers,"
+          },
+          {
+            "id": "3",
+            "text": "Cailloux calibrés."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 69"
+      },
+      {
+        "id": 213,
+        "question": "Les éléments constitutifs d’un rail sont :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le champignon,"
+          },
+          {
+            "id": "2",
+            "text": "Le ballast,"
+          },
+          {
+            "id": "3",
+            "text": "Le cœur,"
+          },
+          {
+            "id": "4",
+            "text": "L’âme."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PST 71"
+      },
+      {
+        "id": 214,
+        "question": "En France, l’écartement standard des rails de la voie est de :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "1,335 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "1,435 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "1,524 mètres,"
+          },
+          {
+            "id": "4",
+            "text": "1,672mètres."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 72"
+      },
+      {
+        "id": 215,
+        "question": "Les traverses qui servent à maintenir l’écartement de la voie sont fabriquées :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "En caoutchouc,"
+          },
+          {
+            "id": "2",
+            "text": "En bois,"
+          },
+          {
+            "id": "3",
+            "text": "En béton."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "PST 73"
+      },
+      {
+        "id": 216,
+        "question": "Quel est le rôle du ballast ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Répartir les efforts longitudinaux,"
+          },
+          {
+            "id": "2",
+            "text": "Répartir les efforts transversaux,"
+          },
+          {
+            "id": "3",
+            "text": "Répartir les efforts et charges transmis par le matériel roulant,"
+          },
+          {
+            "id": "4",
+            "text": "D’amortir les vibrations."
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "PST 74"
+      },
+      {
+        "id": 217,
+        "question": "Lorsque je circule dans une rampe :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Je suis dans une montée,"
+          },
+          {
+            "id": "2",
+            "text": "Je suis dans une descente,"
+          },
+          {
+            "id": "3",
+            "text": "Je suis alternativement dans une montée et dans une descente."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 79"
+      },
+      {
+        "id": 218,
+        "question": "Lorsque je circule dans une pente :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Je monte uniquement,"
+          },
+          {
+            "id": "2",
+            "text": "Je descends uniquement,"
+          },
+          {
+            "id": "3",
+            "text": "Je monte et je descends."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST 80"
+      },
+      {
+        "id": 219,
+        "question": "Quel est le risque lié au patinage ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "2",
+            "text": "La dégradation de la caténaire,"
+          },
+          {
+            "id": "3",
+            "text": "Le nez à nez,"
+          },
+          {
+            "id": "4",
+            "text": "La dégradation du rail."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST 83"
+      },
+      {
+        "id": 220,
+        "question": "Quels sont les risques liés à l’enrayage ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "2",
+            "text": "La dégradation du matériel roulant,"
+          },
+          {
+            "id": "3",
+            "text": "L’incendie,"
+          },
+          {
+            "id": "4",
+            "text": "La dégradation de la caténaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST 84"
+      },
+      {
+        "id": 221,
+        "question": "Quels sont les risques liés à l’enrayage ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le rattrapage,"
+          },
+          {
+            "id": "2",
+            "text": "L’explosion du moteur,"
+          },
+          {
+            "id": "3",
+            "text": "La prise en écharpe,"
+          },
+          {
+            "id": "4",
+            "text": "La dégradation de la caténaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PST 85"
+      },
+      {
+        "id": 222,
+        "question": "Un appareil de voie entrebâillé doit être :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Franchi à vitesse normale,"
+          },
+          {
+            "id": "2",
+            "text": "Franchi à basse vitesse,"
+          },
+          {
+            "id": "3",
+            "text": "Non franchi."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 87"
+      },
+      {
+        "id": 223,
+        "question": "Un passage à niveau dont une barrière est cassée présente-t-il un risque :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Oui,"
+          },
+          {
+            "id": "2",
+            "text": "Non,"
+          },
+          {
+            "id": "3",
+            "text": "Ça dépend de la visibilité."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST 89"
+      },
+      {
+        "id": 224,
+        "question": "Une barrière de passage à niveau cassée présente :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un risque pour les circulations routières uniquement,"
+          },
+          {
+            "id": "2",
+            "text": "Un risque pour les circulations ferroviaires uniquement,"
+          },
+          {
+            "id": "3",
+            "text": "Un risque pour les circulations routières et ferroviaires,"
+          },
+          {
+            "id": "4",
+            "text": "Ne présente aucun risque."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST 90"
+      },
+      {
+        "id": 225,
+        "question": "Citer les catégories d’acteurs qui interviennent dans l’organisation opérationnelle des circulations des trains :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Aiguilleur,"
+          },
+          {
+            "id": "2",
+            "text": "Agent d’entretien des voies,"
+          },
+          {
+            "id": "3",
+            "text": "Agent d’entretien des caténaires."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CCER 1"
+      },
+      {
+        "id": 226,
+        "question": "Citer les catégories d’acteurs qui interviennent dans l’organisation opérationnelle des circulations des trains :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Contrôleur,"
+          },
+          {
+            "id": "2",
+            "text": "Régulateur,"
+          },
+          {
+            "id": "3",
+            "text": "Agent commercial."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CCER 2"
+      },
+      {
+        "id": 227,
+        "question": "Parmi les actions citées ci-dessous, indiquez les actions « réflexes » :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Actionner le freinage d’urgence,"
+          },
+          {
+            "id": "2",
+            "text": "Déterminer la vitesse limite de son train,"
+          },
+          {
+            "id": "3",
+            "text": "Dépanner un engin moteur."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CCER 3"
+      },
+      {
+        "id": 228,
+        "question": "Citez les actions « réfléchies », SANS consultation de document :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrêter d’urgence son train,"
+          },
+          {
+            "id": "2",
+            "text": "Déterminer la vitesse limite de son train,"
+          },
+          {
+            "id": "3",
+            "text": "Obéir à la signalisation."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CCER 4"
+      },
+      {
+        "id": 229,
+        "question": "Citez les actions « réfléchies », AVEC consultation de document :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Dépanner un engin moteur,"
+          },
+          {
+            "id": "2",
+            "text": "Arrêter rapidement les autres circulations,"
+          },
+          {
+            "id": "3",
+            "text": "Obéir à la signalisation."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "CCER 5"
+      },
+      {
+        "id": 230,
+        "question": "Comment respecter les procédures :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les interpréter en fonction des situations,"
+          },
+          {
+            "id": "2",
+            "text": "Gérer les priorités,"
+          },
+          {
+            "id": "3",
+            "text": "Faire preuve d’initiative,"
+          },
+          {
+            "id": "4",
+            "text": "Utiliser les documents d’application."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "CCER 7"
+      },
+      {
+        "id": 231,
+        "question": "Parmi les actions citées ci-dessous, indiquez les actions « réflexes » :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Consulter la documentation,"
+          },
+          {
+            "id": "2",
+            "text": "Déclencher le SAR,"
+          },
+          {
+            "id": "3",
+            "text": "Aviser le G.I.D, par téléphone."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CCER 8"
+      },
+      {
+        "id": 232,
+        "question": "Citez les actions « réfléchies », SANS consultation de document :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrêter d’urgence son train,"
+          },
+          {
+            "id": "2",
+            "text": "Dépanner un engin moteur,"
+          },
+          {
+            "id": "3",
+            "text": "Aviser le G.I.D, par téléphone."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CCER 9"
+      },
+      {
+        "id": 233,
+        "question": "Citez les actions « réfléchies », AVEC consultation de document :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrêter d’urgence son train,"
+          },
+          {
+            "id": "2",
+            "text": "Déterminer la vitesse limite de son train,"
+          },
+          {
+            "id": "3",
+            "text": "Aviser par téléphone le G.I.D."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CCER 10"
+      },
+      {
+        "id": 234,
+        "question": "Citer les règles à respecter dans l’application des procédures :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Contrôler ses actions,"
+          },
+          {
+            "id": "2",
+            "text": "Terminer l’action commencée,"
+          },
+          {
+            "id": "3",
+            "text": "Travailler de mémoire uniquement,"
+          },
+          {
+            "id": "4",
+            "text": "Adapter les procédures."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "CCER 11"
+      },
+      {
+        "id": 235,
+        "question": "Les procédures de sécurité sont appliquées :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Uniquement en cas de danger,"
+          },
+          {
+            "id": "2",
+            "text": "A l’initiative du conducteur,"
+          },
+          {
+            "id": "3",
+            "text": "Sur demande de l’EPSF,"
+          },
+          {
+            "id": "4",
+            "text": "Au quotidien, dans l’exercice du métier de conducteur."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "CCER 12"
+      },
+      {
+        "id": 236,
+        "question": "Les procédures de sécurité doivent :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Être différées en cas de retard,"
+          },
+          {
+            "id": "2",
+            "text": "Être appliquées avec rigueur,"
+          },
+          {
+            "id": "3",
+            "text": "Être interprétées."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CCER 13"
+      },
+      {
+        "id": 237,
+        "question": "Les procédures de sécurité sont appliquées :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "En cas de neige ou de verglas,"
+          },
+          {
+            "id": "2",
+            "text": "Systématiquement,"
+          },
+          {
+            "id": "3",
+            "text": "Sauf les dimanches et fêtes."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CCER 14"
+      },
+      {
+        "id": 238,
+        "question": "Lorsque le conducteur reçoit un appel, il doit :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Répondre immédiatement,"
+          },
+          {
+            "id": "2",
+            "text": "Gérer en priorité la signalisation qui lui est présentée,"
+          },
+          {
+            "id": "3",
+            "text": "Gérer la circulation du train (régler la vitesse, gérer des arrêts, …),"
+          },
+          {
+            "id": "4",
+            "text": "Ne pas répondre quand il est en mode conduite."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "CCER 15"
+      },
+      {
+        "id": 239,
+        "question": "En cas d’urgence, pour arrêter les autres trains, le conducteur dispose :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Du signal d’arrêt à main,"
+          },
+          {
+            "id": "2",
+            "text": "Du mouvement de bras,"
+          },
+          {
+            "id": "3",
+            "text": "Du numéro d’urgence de la gendarmerie,"
+          },
+          {
+            "id": "4",
+            "text": "Du signal d’alerte radio."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2",
+          "4"
+        ],
+        "code": "PAP 1"
+      },
+      {
+        "id": 240,
+        "question": "En cas d’urgence, pour arrêter les autres trains, le conducteur déclenche, en cabine de conduite :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le signal d’alerte lumineux,"
+          },
+          {
+            "id": "2",
+            "text": "La torche,"
+          },
+          {
+            "id": "3",
+            "text": "Le signal d’arrêt à main,"
+          },
+          {
+            "id": "4",
+            "text": "Le signal d’alerte radio."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PAP 2"
+      },
+      {
+        "id": 241,
+        "question": "En cas d’urgence, pour arrêter les autres trains, le conducteur utilise, aux abords de la voie :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le signal d’alerte lumineux,"
+          },
+          {
+            "id": "2",
+            "text": "Des torches à flamme rouge,"
+          },
+          {
+            "id": "3",
+            "text": "Le signal d’alerte radio,"
+          },
+          {
+            "id": "4",
+            "text": "Un mouvement de bras."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "PAP 3"
+      },
+      {
+        "id": 242,
+        "question": "À la perception du signal d’alerte-radio, le conducteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrête son train d’urgence,"
+          },
+          {
+            "id": "2",
+            "text": "Ralentit son train,"
+          },
+          {
+            "id": "3",
+            "text": "Ecoute la radio,"
+          },
+          {
+            "id": "4",
+            "text": "Maintient sa vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 4"
+      },
+      {
+        "id": 243,
+        "question": "À la perception du signal d’alerte lumineux, le conducteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrête son train d’urgence,"
+          },
+          {
+            "id": "2",
+            "text": "Ralentit son train,"
+          },
+          {
+            "id": "3",
+            "text": "Ecoute la radio,"
+          },
+          {
+            "id": "4",
+            "text": "Maintient sa vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 5"
+      },
+      {
+        "id": 244,
+        "question": "À la perception de l’explosion de pétards, le conducteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrête son train d’urgence,"
+          },
+          {
+            "id": "2",
+            "text": "Ecoute la radio,"
+          },
+          {
+            "id": "3",
+            "text": "Maintient sa vitesse,"
+          },
+          {
+            "id": "4",
+            "text": "Ralentit son train."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 6"
+      },
+      {
+        "id": 245,
+        "question": "À la perception de la lueur d’une torche à flamme rouge, le conducteur :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Arrête son train d’urgence,"
+          },
+          {
+            "id": "2",
+            "text": "Ralentit son train,"
+          },
+          {
+            "id": "3",
+            "text": "Ecoute la radio,"
+          },
+          {
+            "id": "4",
+            "text": "Maintient sa vitesse."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 7"
+      },
+      {
+        "id": 246,
+        "question": "La protection d’un point dangereux est assurée par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La fermeture des signaux d’arrêt,"
+          },
+          {
+            "id": "2",
+            "text": "L’émission du signal d’alerte radio,"
+          },
+          {
+            "id": "3",
+            "text": "L’émission du signal d’alerte lumineux."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 8"
+      },
+      {
+        "id": 247,
+        "question": "Pour arrêter un train, le conducteur une fois au sol peut utiliser :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La barre de court-circuit,"
+          },
+          {
+            "id": "2",
+            "text": "Le signal d’arrêt à main et des pétards,"
+          },
+          {
+            "id": "3",
+            "text": "La radio en phonie,"
+          },
+          {
+            "id": "4",
+            "text": "Le signal d’alerte lumineux."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PAP 9"
+      },
+      {
+        "id": 248,
+        "question": "Pour arrêter un train, le conducteur une fois au sol peut utiliser :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des pétards, en pleine voie,"
+          },
+          {
+            "id": "2",
+            "text": "La torche à flamme rouge,"
+          },
+          {
+            "id": "3",
+            "text": "La radio en phonie,"
+          },
+          {
+            "id": "4",
+            "text": "Le signal d’alerte lumineux."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PAP 10"
+      },
+      {
+        "id": 249,
+        "question": "En cas d’urgence, pour arrêter les autres trains, le conducteur dispose :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Du signal d’alerte lumineux,"
+          },
+          {
+            "id": "2",
+            "text": "Des torches à flamme rouge,"
+          },
+          {
+            "id": "3",
+            "text": "D’un sifflet,"
+          },
+          {
+            "id": "4",
+            "text": "D’un SMS."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PAP 11"
+      },
+      {
+        "id": 250,
+        "question": "En cas d’urgence, pour arrêter les autres trains, le conducteur déclenche, en cabine de conduite :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le signal d’alerte lumineux,"
+          },
+          {
+            "id": "2",
+            "text": "Un mouvement de bras,"
+          },
+          {
+            "id": "3",
+            "text": "Les pétards, en pleine voie,"
+          },
+          {
+            "id": "4",
+            "text": "Le signal d’alerte radio."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PAP 12"
+      },
+      {
+        "id": 251,
+        "question": "Citer la méthode que vous appliquez, lors d’un accident de personne :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Secourir/Alerter/Protéger,"
+          },
+          {
+            "id": "2",
+            "text": "Alerter/Secourir/Protéger,"
+          },
+          {
+            "id": "3",
+            "text": "Protéger/Secourir/Alerter,"
+          },
+          {
+            "id": "4",
+            "text": "Protéger/Alerter/Secourir."
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PAP 13"
+      },
+      {
+        "id": 252,
+        "question": "Quel est le numéro de téléphone de secours européen ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "112,"
+          },
+          {
+            "id": "2",
+            "text": "18,"
+          },
+          {
+            "id": "3",
+            "text": "17,"
+          },
+          {
+            "id": "4",
+            "text": "3639."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PAP 15"
+      },
+      {
+        "id": 253,
+        "question": "Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Porter secours aux victimes en fonction de ses moyens et compétences,"
+          },
+          {
+            "id": "2",
+            "text": "Délimiter un périmètre de sécurité,"
+          },
+          {
+            "id": "3",
+            "text": "Se soumettre à l’épreuve de l’alcootest,"
+          },
+          {
+            "id": "4",
+            "text": "Klaxonner régulièrement pour faciliter l’arrivée des secours."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PAP 16"
+      },
+      {
+        "id": 254,
+        "question": "Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Rester dans sa cabine jusqu’à l’arrivée des secours,"
+          },
+          {
+            "id": "2",
+            "text": "Assurer la garde de l’enregistreur, même si la police le réclame,"
+          },
+          {
+            "id": "3",
+            "text": "Attendre l’arrivée d’un agent de l’entreprise pour répondre aux questions des enquêteurs,"
+          },
+          {
+            "id": "4",
+            "text": "Se soumettre au dépistage de produit psychotrope."
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "PAP 17"
+      },
+      {
+        "id": 255,
+        "question": "Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Relever l’identité et l’adresse de témoins,"
+          },
+          {
+            "id": "2",
+            "text": "S’assurer du décès de la victime avant de prévenir les secours,"
+          },
+          {
+            "id": "3",
+            "text": "Répondre aux questions des journalistes,"
+          },
+          {
+            "id": "4",
+            "text": "Faciliter l’enquête de police en notant tous les éléments divers (numéro de véhicules, …)."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PAP 18"
+      },
+      {
+        "id": 256,
+        "question": "Quel organe d’une locomotive capte le courant, sur la caténaire ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le transformateur,"
+          },
+          {
+            "id": "2",
+            "text": "Le pantographe,"
+          },
+          {
+            "id": "3",
+            "text": "Le disjoncteur,"
+          },
+          {
+            "id": "4",
+            "text": "Le parafoudre."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PBE 1"
+      },
+      {
+        "id": 257,
+        "question": "Quel est le type de contact entre la caténaire et le pantographe ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Statistique,"
+          },
+          {
+            "id": "2",
+            "text": "Glissant,"
+          },
+          {
+            "id": "3",
+            "text": "Flottant,"
+          },
+          {
+            "id": "4",
+            "text": "Aléatoire,"
+          },
+          {
+            "id": "5",
+            "text": "Intermittent."
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PBE 2"
+      },
+      {
+        "id": 258,
+        "question": "Le RSS est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un garde de sous-station,"
+          },
+          {
+            "id": "2",
+            "text": "Le Responsable Systèmes Sécurité,"
+          },
+          {
+            "id": "3",
+            "text": "Le Régulateur Sous Station,"
+          },
+          {
+            "id": "4",
+            "text": "L’agent qualifié pour organiser les circulations."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PBE 3"
+      },
+      {
+        "id": 259,
+        "question": "L’absence de tension ligne peut être la conséquence :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "D’une avarie caténaire,"
+          },
+          {
+            "id": "2",
+            "text": "D’une avarie de l’engin moteur,"
+          },
+          {
+            "id": "3",
+            "text": "D’une coupure d’urgence,"
+          },
+          {
+            "id": "4",
+            "text": "Du non-règlement de la facture par l’entreprise,"
+          },
+          {
+            "id": "5",
+            "text": "De la non-alimentation de la caténaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "5"
+        ],
+        "code": "PBE 4"
+      },
+      {
+        "id": 260,
+        "question": "Pour obtenir du courant continu à partir du courant alternatif, on utilise :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un rehausseur,"
+          },
+          {
+            "id": "2",
+            "text": "Un transformateur,"
+          },
+          {
+            "id": "3",
+            "text": "Un redresseur,"
+          },
+          {
+            "id": "4",
+            "text": "Des selfs de lissage."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PBE 5"
+      },
+      {
+        "id": 261,
+        "question": "Les locomotives électriques sont généralement alimentées en courant de traction par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un fil de contact suspendu au-dessus de la voie,"
+          },
+          {
+            "id": "2",
+            "text": "Un rail implanté dans l’entrevoie,"
+          },
+          {
+            "id": "3",
+            "text": "Un circuit de voie dans les rails."
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PBE 6"
+      },
+      {
+        "id": 262,
+        "question": "Sur une locomotive le retour du courant électrique s’effectue par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "La masse,"
+          },
+          {
+            "id": "2",
+            "text": "Le rail,"
+          },
+          {
+            "id": "3",
+            "text": "L’air,"
+          },
+          {
+            "id": "4",
+            "text": "La caténaire."
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PBE 8"
+      }
+    ]
+  }
+}

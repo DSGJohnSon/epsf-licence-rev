@@ -1,0 +1,611 @@
+Le conducteur assure une journée de service avec un repos hors résidence. Que doit-il emporter ?
+[]Il n’emporte rien,
+[]Il emporte ses effets personnels, XXX
+[]Il demande un kit de toilette à son service.
+AEMC 8
+////////
+Sur le parcours « domicile-travail », un pneu de ma voiture crève. En premier lieu :
+[]J’avise rapidement mon employeur de mon retard, XXX
+[]Je préviens un collègue,
+[]Je répare mon pneu.
+AEMC 9
+////////
+Mon rythme de vie me fait perdre le sommeil :
+[]Je consulte mon médecin, XXX
+[]Je consomme de l’alcool,
+[]Je prends un somnifère.
+AEMC 10
+//////// 
+Selon vous, quels sont les facteurs altérant les facultés, dans la mission de sécurité :
+[]Le sport,
+[]Les émotions, XXX
+[]La consommation d’alcool. XXX
+AEMC 11
+////////
+La consommation de produits psychotropes (anxiolytiques, hypnotiques…) :
+[]Favorise l’attention du conducteur,
+[]N’exerce aucune influence sur le comportement du conducteur,
+[]Altère les capacités du conducteur. XXX
+AEMC 12
+////////
+Selon vous, quels sont les facteurs altérant les facultés, dans la mission de sécurité :
+[]Le manque de sommeil, XXX
+[]La prise de produits psychotropes, XXX
+[]La vie associative.
+AEMC 13
+////////
+Dans le cadre de mes fonctions, le taux d’alcool légal autorisé, par litre de sang, est inférieur à :
+[]0 g/l,
+[]0,2g/l, XXX
+[]0,5g/l,
+[]1 g/l.
+AEMC 14
+////////
+Mes horaires de travail sont définis en fonction :
+[]De ma vie de famille,
+[]De mes activités sportives,
+[]Des besoins du service, XXX
+[]Des émissions de télévision.
+AEMC 15
+//////// 
+Quelle est la durée maximale de validité de la licence « Conducteur de train » ?
+[]Un an,
+[]Trois ans,
+[]Dix ans. XXX
+AEMC 16
+////////
+En Europe, quelle est la durée maximale de validité de la licence « Conducteur de train » ?
+[]Trois ans,
+[]Cinq ans,
+[]Huit ans,
+[]Dix ans.
+AEMC 16 bis
+////////
+Pour pouvoir conduire un train, l’obtention de la licence est-elle suffisante ?
+[]Oui,
+[]Non, XXX
+[]Ça dépend.
+AEMC 17
+////////
+La Licence est délivrée par :
+[]L’employeur,
+[]L’autorité de sécurité d’un autre pays européen, XXX
+[]L’autorité de sécurité française, XXX
+[]Le gestionnaire d’Infrastructure,
+[]L’autorité de régulation. 
+AEMC 18
+////////
+La Licence est de couleur :
+[]Blanche,
+[]Jaune,
+[]Bleue, XXX
+[]Verte.
+AEMC 19
+////////
+La Licence appartient :
+[]A l’EPSF,
+[]A l’employeur,
+[]Au conducteur, XXX
+[]Au gestionnaire d’Infrastructure.
+AEMC 20
+////////
+Les mentions et informations figurant sur la Licence sont :
+[]Le nom du titulaire, XXX
+[]La catégorie de conduite,
+[]La photo du titulaire, XXX
+[]Les lignes pratiquées.
+AEMC 21
+////////
+Les mentions et informations figurant sur la Licence sont :
+[]La date de l’examen d’aptitudes physiques,
+[]Le port de verres correcteurs, XXX
+[]La photographie du titulaire, XXX
+[]La date de l’examen d’aptitude psychologique.
+AEMC 22
+////////
+En France la licence peut être retirée par :
+[]La force publique,
+[]L’EPSF, XXX
+[]L’employeur,
+[]L’autorité de régulation.
+AEMC 23
+////////
+La Licence seule permet en Europe de :
+[]Conduire sur petits parcours,
+[]Justifier de son aptitude physique à la conduite, XXX
+[]Conduire sur toutes les lignes,
+[]De justifier son niveau linguistique,
+[]De libéraliser le marché du travail. XXX
+AEMC 24
+////////
+Pour que mon attestation complémentaire reste valide, mes compétences doivent être évaluées au moins tous les :
+[]Un an,
+[]Trois ans, XXX
+[]Dix ans.
+AEMC 25
+////////
+L’attestation complémentaire est délivrée par :
+[]L’employeur, XXX
+[]L’autorité de sécurité française,
+[]Le gestionnaire d’Infrastructure,
+[]La commission d’aptitude ferroviaire.
+AEMC 26
+////////
+Quelle est la durée maximale de validité de l’examen médical d’aptitude, pour un conducteur de moins de 53 ans ?
+[]Deux ans,
+[]Trois ans, XXX
+[]Dix ans.
+AEMC 27
+////////
+Avant 53 ans, je dois faire renouveler mon certificat d’aptitude physique tous les :
+[]Un an,
+[]Trois ans, XXX
+[]Cinq ans.
+AEMC 27bis
+////////
+L’aptitude psychologique est renouvelée :
+[]Tous les 3 ans,
+[]Sur avis du médecin d’aptitude, XXX
+[]Tous les 5 ans,
+[]Au moment du renouvellement de la licence, XXX
+[]Jamais.
+AEMC 28
+////////
+Les accidents du travail ont comme cause principale :
+[]Des dispositions de sécurité insuffisantes de la part de l’entreprise,
+[]La fatalité,
+[]Le non-respect des procédures. XXX
+RSP 1
+////////
+Le risque de heurt par la circulation est un risque :
+[]Radioactif,
+[]Chimique,
+[]Electromagnétique,
+[]Ferroviaire. XXX
+RSP 2
+////////
+Lorsqu’un train circule, il crée un déplacement d’air et des turbulences que l’on appelle l’effet de :
+[]Serre,
+[]Joule,
+[]Souffle. XXX
+RSP 3
+////////
+Quels sont les risques liés aux déplacements du personnel, dans l’enceinte ferroviaire ?
+[]Les glissades, XXX
+[]Le froid,
+[]Les heurts, XXX
+[]La fatigue.
+RSP 4
+////////
+Que signifie l’abréviation « E.P.I » ?
+[]Emplacement de Protection Individuelle,
+[]Equipement de Protection Individuelle, XXX
+[]Ensemble de Protections Individuelles,
+[]Espacement de Protections Individuelles.
+RSP 5
+////////
+Pour stationner, se déplacer sur les voies ou à leurs abords, le conducteur doit porter :
+[]Des vêtements flottants,
+[]Des chaussures de sécurité,
+[]Un article de visualisation. XXX
+RSP 6
+////////
+Lors de vos déplacements à pied dans les emprises ferroviaires, vous devez porter :
+[]Un casque,
+[]Des lunettes de soleil,
+[]Un article de visualisation, XXX
+[]Des gants de protection.
+RSP 6bis
+////////
+Le port des articles de visualisation est :
+[]Laissé à l’initiative de l’opérateur,
+[]Obligatoire dans la gare, dans un faisceau ou sur les voies hors zones accessibles au public, XXX
+[]Obligatoire lorsque l’opérateur se déplace dans une zone dangereuse ou à proximité. XXX
+RSP 7
+////////
+Dans un établissement ferroviaire, par quels moyens, pouvez-vous être renseigné sur l’emplacement des pistes et itinéraires que vous devrez emprunter ?
+[]Par le fléchage sur le terrain, XXX
+[]Par la consultation de l’affichage « Sécurité circulation »,
+[]Par la consultation des schémas affichés au point d’entrée, XXX
+[]Par la consultation de la documentation horaire.
+RSP 8
+////////
+Dans l’enceinte ferroviaire, quels sont les éléments que vous devez suivre pour vous déplacez à pied ?
+[]Les schémas, XXX
+[]Mon sens d’orientation,
+[]Les itinéraires les plus rapides.
+RSP 9
+////////
+Pour se déplacer le long des voies principales, le conducteur emprunte :
+[]Des pistes, XXX
+[]Des itinéraires,
+[]Des chemins.
+RSP 10
+////////
+Pour se déplacer en dehors des voies principales, le conducteur emprunte :
+[]Des pistes,
+[]Des itinéraires, XXX
+[]Des chemins.
+RSP 11
+////////
+Dans une enceinte ferroviaire, quels sont les éléments qui vous permettent de définir un itinéraire piéton ?
+[]La signalétique, XXX
+[]Mon sens d’orientation,
+[]Les itinéraires les plus rapides.
+RSP 12
+////////
+Dans le livret ligne, j’identifie :
+[]Les distances de freinage,
+[]La Vitesse Limite de tous les trains circulant sur la ligne, XXX
+[]Le sens de circulation des trains, XXX
+[]Les points à mauvaise visibilité.
+RSP 13
+////////
+Un train roulant à 160km/h parcourt en 1 seconde :
+[]34 mètres,
+[]44 mètres, XXX
+[]54 mètres,
+[]64 mètres.
+RSP 14
+////////
+Pour une ligne dont la vitesse est supérieure à 160km/h sans dépasser 300km/h, la zone dangereuse s’étend, de part et d’autre du rail, au moins à :
+[]1 mètre,
+[]1,50 mètre,
+[]2,00 mètres, XXX
+[]2,50 mètres.
+RSP 16
+////////
+Lors du passage d’une circulation, l’emplacement où les agents peuvent se garer (en dehors de toute zone dangereuse) s’appelle :
+[]L’entrevoie,
+[]La zone d’évolution,
+[]Le stationnement,
+[]L’emplacement de garage. XXX
+RSP 17
+////////
+Selon vous, parmi les éléments ci-dessous, lesquels doivent vous servir à délimiter votre zone de visibilité ?
+[]La vitesse du train le plus rapide sur la ligne, XXX
+[]Les conditions atmosphériques, XXX
+[]Les performances de freinage des trains,
+[]Les conditions d’adhérence.
+RSP 18
+////////
+Quels sont les éléments qui me permettent d’évoluer dans ma zone de visibilité ?
+[]La vitesse du train le plus rapide sur la ligne, XXX
+[]Les conditions d’adhérence,
+[]Le lieu (tunnel, pont…), XXX
+[]Les performances de freinage des trains.
+RSP 18bis
+////////
+Pour traverser une voie, il faut :
+[]Demander l’autorisation au responsable de la zone,
+[]Marquer l’arrêt avant de s’engager, XXX
+[]Regarder attentivement des deux côtés. XXX
+RSP 19
+////////
+Les mauvaises conditions atmosphériques sont des facteurs :
+[]Diminuant les risques d’accident,
+[]Sans aucune influence sur les risques d’accident,
+[]Augmentant les risques d’accident. XXX
+RSP 20
+////////
+La distance moyenne entre 2 poteaux caténaires, en ligne droite, est d’environ :
+[]Trente mètres,
+[]Cinquante mètres, XXX
+[]Cent mètres,
+[]Cent trente mètres.
+RSP 21
+////////
+Quels éléments permettent d’évaluer une distance, avant de traverser la voie ?
+[]Mon estimation,
+[]Les traverses,
+[]Les supports caténaires, XXX
+[]Les bornes hectométriques. XXX
+RSP 22
+////////
+Je monte sur un engin moteur avec :
+[]Un point d’appui,
+[]Deux points d’appui,
+[]Trois points d’appui. XXX
+RSP 23
+////////
+Pour monter ou descendre, de face à l’engin moteur, vous :
+[]Sautez sur la dernière marche,
+[]Gardez toujours 3 points d’appui et utilisez toutes les marches, XXX
+[]Portez des gants et sautez de la dernière marche,
+[]N’engagez pas le gabarit et vérifiez l’état du sol, XXX
+[]Portez votre sac en bandoulière.
+RSP 24
+////////
+La distance minimum à respecter pour passer derrière un véhicule à l’arrêt, est de :
+[]Un mètre,
+[]Deux mètres,
+[]Trois mètres. XXX
+RSP 25
+////////
+Pour permettre de traverser entre 2 véhicules, il faut nécessairement que :
+[]La distance entre les 2 véhicules soit égale à 3 mètres,
+[]La distance entre l’opérateur et les véhicules soit d’au moins 3 mètres, XXX
+[]Les véhicules doivent être en mouvement,
+[]Les véhicules doivent être à l’arrêt. XXX
+RSP 26
+////////
+Quelle distance doit respecter un conducteur de train, pour passer devant un engin moteur à l’arrêt ? 
+[]Deux mètres,
+[]Trois mètres, XXX
+[]Quatre mètres,
+[]Cinq mètres.
+RSP 27
+////////
+Un fil caténaire est tombé au sol. Vous le considérez ?
+[]Sous tension, XXX
+[]Hors tension.
+RSP 28
+////////
+Vous êtes en présence d’un fil caténaire tombé à terre. Que faites-vous en priorité ?
+[]Vous éloignez le fil caténaire du rail,
+[]Vous ne touchez pas au fil caténaire, XXX
+[]Vous demandez à d’autres personnes de venir constater l’incident,
+[]Vous avisez le gestionnaire d’infrastructure délégué (GID). XXX
+RSP 29
+////////
+Un courant électrique de 50 volts est :
+[]Invisible, XXX
+[]Visible,
+[]Dangereux, XXX
+[]Pas dangereux.
+RSP 30
+////////
+L’habilitation électrique est délivrée par :
+[]L’employeur, XXX
+[]L’agent de sécurité,
+[]L’agent du service électrique.
+RSP 31
+////////
+Quel est le but de l’habilitation électrique ?
+[]Habiliter à intervenir dans l’entrevoie,
+[]Sensibiliser aux risques électriques, XXX
+[]Conduire des locomotives électriques.
+RSP 32
+////////
+En général, par rapport au plan de roulement le fil de contact de la caténaire se situe à une hauteur de :
+[]4.78 mètres,
+[]5.78 mètres, XXX
+[]6.78 mètres.
+RSP 34
+////////
+Quelle doit être ma zone de visibilité minimale pour traverser une plateforme à deux voies dont la vitesse limite est de 160 km/h, sachant qu’il me faut au maximum 10 secondes pour traverser et dégager la zone dangereuse ? 
+[]Environ 250 m de part et d’autre,
+[]Environ 450 m de part et d’autre, XXX
+[]Environ 660 m de part et d’autre,
+[]Environ 850 m de part et d’autre.
+RSP 35
+////////
+Le conducteur circule sur une voie électrifiée, dans un tunnel, je considère que la caténaire est à une hauteur :
+[]Inférieure à 4 mètres,
+[]Inférieure à 5 mètres, XXX
+[]Inférieure à 6 mètres.
+RSP 36
+////////
+La bande bleue avec liserés blancs présente sur un support caténaire, vous signale un fil de contact à une hauteur :
+[]Inférieure à 4 mètres,
+[]Inférieure à 5 mètres, XXX
+[]Inférieure à 6 mètres.
+RSP 37
+////////
+La bande bleue avec liserés blancs présente sur un support caténaire, vous signale :
+[]La direction d’un téléphone d’alarme,
+[]Un dispositif d’urgence,
+[]Un fil de contact à une hauteur inférieure à 5 mètres. XXX
+RSP 38
+////////
+Le guidage du matériel « moteur et remorqué » est réalisé par :
+[]Le bogie, XXX
+[]La caisse,
+[]Les roues, XXX
+[]Les boîtes d’essieux. XXX
+IMR 1
+////////
+Les éléments constitutifs d’une roue sont :
+[]Les boudins, XXX
+[]Les essieux,
+[]Les tables de roulement, XXX
+[]Les tables de refoulement.
+IMR 2
+////////
+Le guidage d’un véhicule est réalisé par :
+[]Le profil des roues, XXX
+[]La forme du rail,
+[]La vitesse du train, XXX
+[]Le freinage.
+IMR 3
+////////
+Quel est le rôle de la voie ?
+[]Supporter et guider le matériel roulant, XXX
+[]Répartir les efforts verticaux,
+[]Améliorer l’adhérence.
+IMR 4
+////////
+La voie est posée dans les courbes avec un certain « devers ». Le devers permet :
+[]De compenser en partie l’action de la force centrifuge, XXX
+[]D’assurer le guidage des roues,
+[]D’amortir les chocs sur la voie.
+IMR 5
+////////
+L’ensemble du parc de véhicules de transport ferroviaire se nomme :
+[]Le matériel moteur,
+[]Le matériel remorqué,
+[]Le matériel roulant, XXX
+[]La rame.
+IMR 6
+////////
+Un élément réversible autonome est :
+[]Un élément autoporté,
+[]Un élément autotracté,
+[]Un élément automoteur. XXX
+IMR 7
+////////
+Les éléments constitutifs d’une roue sont :
+[]L’écrou,
+[]La couverture,
+[]La toile, XXX
+[]La jante. XXX
+IMR 9
+////////
+Les éléments constitutifs d’une roue sont :
+[]Le moyeu, XXX
+[]La couverture,
+[]Le pneu,
+[]La jante. XXX
+IMR 9bis
+////////
+Sur un engin moteur, la suspension située entre la roue et le châssis de bogie s’appelle :
+[]La suspension principale,
+[]La suspension primaire, XXX
+[]La suspension secondaire,
+[]La suspension intermédiaire.
+IMR 10
+////////
+Le conducteur assure le décollage d’un train, il doit créer :
+[]Un effort moteur, XXX
+[]Un effort retardateur,
+[]Un effort de retenue.
+IMR 11
+////////
+Les éléments constitutifs des organes de traction sont :
+[]Un crochet d’attelage et un tendeur de traction,
+[]Un tendeur à crochets et un attelage de traction,
+[]Un crochet de traction et un tendeur d’attelage. XXX
+IMR 12
+////////
+Les tampons et les boisseaux sont :
+[]Les organes de tamponnement,
+[]Les organes de choc, XXX
+[]Les organes de friction,
+[]Les organes de compression.
+IMR 13
+////////
+Sur un véhicule ordinaire, le système de freinage est un dispositif fonctionnant par :
+[]Air comprimé, XXX
+[]Ressort,
+[]Hydraulique,
+[]Electromécanique.
+IMR 14
+////////
+La conduite utilisée, pour alimenter les équipements de frein d’un véhicule, s’appelle :
+[]La conduite blanche,
+[]La conduite secondaire,
+[]La conduite générale. XXX
+IMR 15
+////////
+La liaison entre les essieux et le châssis de bogie est réalisée par ?
+[]Le pivot,
+[]Les barres de traction,
+[]Les boîtes d’essieux, XXX
+[]La suspension.
+IMR 16
+////////
+Quels modes de traction sont utilisés en France sur les EM :
+[]Traction pneumatique,
+[]Traction thermique, XXX
+[]Traction électrique, XXX
+[]Traction hydraulique.
+IMR 25
+////////
+Un train qui circule en pente a tendance à :
+[]Prendre de la vitesse, XXX
+[]Ralentir,
+[]S’arrêter.
+IMR 26
+////////
+Pour mettre un engin moteur sous tension, je provoque la fermeture du :
+[]Contacteur,
+[]Disrupteur,
+[]Disjoncteur, XXX
+[]Condensateur.
+IMR 27
+////////
+Sur une locomotive électrique, l’appareil servant à capter le courant à la caténaire se nomme :
+[]La ligne de toiture,
+[]Le pantographe, XXX
+[]Le commutateur,
+[]Le capteur.
+IMR 28
+////////
+L’effort de freinage est efficace lorsqu’il y a : 
+[]Glissement de la roue sur le rail,
+[]Adhérence de la roue sur le rail, XXX
+[]Un effort de freinage supérieur à la limite d’adhérence,
+[]Effort de freinage inférieur à la limite d’adhérence. XXX
+IMR 29
+////////
+Quelles sont les avantages du contact roue sur rail : 
+[]Permettre un bon roulement, XXX
+[]Favoriser l’adhérence,
+[]Nécessite peu d’efforts de traction, XXX
+[]Facilite le freinage.
+IMR 30
+////////
+Pour démarrer un train il faut : 
+[]Un glissement de la roue sur le rail,
+[]Une adhérence de la roue sur le rail, XXX
+[]Que l’effort moteur soit supérieur à la limite d’adhérence,
+[]Que l’effort moteur soit inférieur à la limite d’adhérence. XXX
+IMR 31
+////////
+Pour mettre en mouvement un train il faut : 
+[]Un glissement de la roue sur le rail,
+[]Une adhérence de la roue sur le rail, XXX
+[]Que l’effort moteur soit supérieur à la limite d’adhérence,
+[]Que l’effort moteur soit inférieur à la limite d’adhérence. XXX
+IMR 31bis
+////////
+Quand la roue tourne sur place lors d’un démarrage, ce phénomène est appelé : 
+[]Glissement,
+[]Décollage,
+[]Patinage, XXX
+[]Enrayage.
+IMR 32
+////////
+Quand la roue tourne sans mise en mouvement lors d’un démarrage, ce phénomène est appelé : 
+[]Glissement,
+[]Décollage,
+[]Patinage, XXX
+[]Enrayage.
+IMR 32bis
+////////
+Un train qui circule en rampe a tendance à :
+[]Prendre de la vitesse,
+[]Ralentir, XXX
+[]S’arrêter.
+IMR 33
+////////
+Quand la roue ne tourne plus lors d’un freinage, ce phénomène est appelé : 
+[]Glissement,
+[]Décollage,
+[]Patinage,
+[]Enrayage. XXX
+IMR 34
+////////
+Un train qui circule en palier a tendance à :
+[]Prendre de la vitesse,
+[]Maintenir sa vitesse, XXX
+[]A s’arrêter.
+IMR 35
+////////
+Le conducteur pour maintenir la vitesse de son train en pente doit :
+[]Augmenter l’effort de traction,
+[]Supprimer l’effort de traction,
+[]Freiner. XXX
+IMR 36
+////////
+Le conducteur pour maintenir la vitesse de son train en rampe doit :
+[]Augmenter l’effort de traction, XXX
+[]Supprimer l’effort de traction,
+[]Mettre les freins en action.
+IMR 37
+////////
+Le conducteur pour maintenir la vitesse de son train en palier doit : 
+[]Augmenter l’effort de traction,
+[]Maintenir l’effort de traction, XXX
+[]Mettre les freins en action.
+IMR 38

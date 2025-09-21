@@ -1,0 +1,1098 @@
+Pour augmenter les conditions d’adhérence (roue/rail) le conducteur met en action :
+[] Les graisseurs de boudins,
+[] Les sablières, XXX
+[] L’effort traction.
+IMR 39
+////////
+L’éjection du sable sur le rail permet :
+[] D’améliorer l’adhérence, XXX
+[] De favoriser les patinages,
+[] De nettoyer le rail.
+IMR 40
+////////
+Le contact fer/fer :
+[] Favorise le roulement, XXX
+[] Favorise l’adhérence,
+[] Favorise le freinage.
+IMR 41
+////////
+Les patinages sont principalement à craindre :
+[] En été,
+[] En automne, XXX
+[] Au printemps.
+IMR 42
+////////
+Les conditions d’adhérence sont améliorées par :
+[] Temps sec, XXX
+[] Temps humide,
+[] La nuit.
+IMR 43
+////////
+Pour chaque mission, quels sont les documents nécessaires à la conduite du train ?
+[] Le livret de procédures, XXX
+[] Le livret ligne, XXX
+[] La carte du réseau,
+[] Le journal d’entreprise.
+DOC 1
+////////
+Pour chaque mission, quels sont les documents nécessaires à la conduite du train ?
+[] Le livret de procédures, XXX
+[] Les schémas de signalisation,
+[] Les informations horaires, XXX
+[] La carte du réseau.
+DOC 2
+////////
+La documentation métier est fournie aux conducteurs par :
+[] L’employeur, XXX
+[] Le centre de formation,
+[] Le gestionnaire d’Infrastructure,
+[] L’EPSF.
+DOC 3
+////////
+Les éléments figurant dans le livret de procédures sont :
+[] La composition de la journée de service,
+[] L’exploitation en situation normale, XXX
+[] L’exploitation en situation d’urgence, XXX
+[] Les informations horaires.
+DOC 4
+////////
+Les procédures nécessaires au conducteur sont reprises dans :
+[] Le livret de service,
+[] Les procédures de communication,
+[] La feuille de route,
+[] Le document de formation, 
+[] Le livret de procédures. XXX
+DOC 5
+////////
+Les thèmes repris dans le livret de procédures sont :
+[] La signalisation, XXX
+[] Les règles de maintenance de l’Infrastructure,
+[] La sécurité du personnel, XXX
+[] L’organisation de l’exploitation du réseau, 
+[] Les incidents. XXX
+DOC 6
+////////
+Le manuel des procédures de communication et le livret de formulaires utilisés sur plusieurs Infrastructures européennes sont rédigés :
+[] Obligatoirement en langue anglaise,
+[] Dans la langue « opérationnelle » du gestionnaire de l’infrastructure parcourue, XXX
+[] Dans toutes les langues des pays membres de la CE.
+DOC 7
+////////
+Le livret de procédures contient :
+[] Les itinéraires parcourus,
+[] Les procédures d’exploitation, XXX
+[] Le bulletin de freinage,
+[] Les procédures d’utilisation du matériel. XXX
+DOC 8
+////////
+Le document qui renseigne le conducteur sur une ligne ferroviaire s’appelle :
+[] Le livret ligne, XXX
+[] Le document horaire,
+[] Le document infrastructure,
+[] La carte du réseau.
+DOC 9
+////////
+Le livret ligne utilisé par le conducteur est :
+[] Un document papier ou informatique, XXX
+[] Remis par le gestionnaire d’Infrastructure,
+[] Remis par l’employeur, XXX
+[] Rédigé par le conducteur.
+DOC 10
+////////
+La description d’une ligne contient les informations suivantes :
+[] L’indication des pentes et rampes, XXX
+[] Le schéma de la ligne, XXX
+[] La position de tous les signaux,
+[] Les horaires à respecter. 
+DOC 11
+////////
+La description d’une ligne contient les informations suivantes :
+[] Le nom des ateliers de maintenance du matériel,
+[] Le nom des entités en charge de la gestion du trafic, XXX
+[] Le gabarit des voies,
+[] Les limites de vitesse. XXX
+DOC 12
+////////
+Les modifications des informations contenues dans le livret ligne sont transmises au conducteur par :
+[] L’EPSF,
+[] Le gestionnaire d’Infrastructure,
+[] L’employeur. XXX
+DOC 13
+////////
+Le document intitulé « informations horaires » est :
+[] Le document qui précise la marche du train, XXX
+[] Une fiche technique,
+[] La liste des points de jalonnement,
+[] Le document qui précise les horaires de la journée de service.
+DOC 14
+////////
+Les informations horaires sont utiles au conducteur pour :
+[] Définir le type d’infrastructure,
+[] Respecter la signalisation,
+[] Assurer la régularité des circulations, XXX
+[] Déterminer les points d’arrêt prévus. XXX
+DOC 15
+////////
+Les informations horaires données au conducteur sont :
+[] Les jours de circulation, XXX
+[] Les points d’arrêt prévus, XXX
+[] Les jours fériés,
+[] Les heures d’ouverture des établissements. 
+DOC 16
+////////
+Les informations horaires données au conducteur sont :
+[] Les points de maintenance,
+[] Les points d’arrivée et de départ, XXX
+[] Les points de passage, XXX
+[] Les points d’avitaillement.
+DOC 17
+////////
+Quels sont les deux appendices que le livret de procédures contient ? :
+[] Le livret ligne,
+[] Le manuel des procédures de communication, XXX
+[] Les informations horaires,
+[] Le livret de formulaires. XXX
+DOC 18
+////////
+Les informations en temps réel concernant des modifications de l’infrastructure sont transmises au conducteur par :
+[] L’EPSF,
+[] Le gestionnaire d’Infrastructure, XXX
+[] L’employeur.
+DOC 19
+////////
+Le conducteur détermine le régime d’exploitation de la section de ligne, en consultant :
+[] Les renseignements théoriques,
+[] Le livret ligne, XXX
+[] Les renseignements téléphoniques,
+[] La documentation personnelle.
+CMT 2
+////////
+Quels types d’essais sont réalisés par les conducteurs :
+[] Les essais de frein, XXX
+[] Les essais de vitesse maximale,
+[] Les essais des systèmes embarqués, XXX
+[] Les essais des torches à flamme rouge.
+CMT 3
+////////
+En respectant les principes de méthode de travail, qu’implique systématiquement au conducteur, une action ?
+[] Une autre action,
+[] Une ou plusieurs vérifications, XXX
+[] La consultation d’un document,
+[] L’arrêt immédiat.
+CMT 4
+////////
+Les téléphones d’alarme vous mettent en relation avec :
+[] L’agent circulation de la gare suivante,
+[] Le régulateur transport,
+[] Le ministère de la Défense,
+[] Le régulateur sous station. XXX
+CMT 5
+////////
+Comment identifiez-vous les téléphones d’alarme ?
+[] Repérage vert,
+[] Repérage rouge, XXX
+[] Pas de signe de reconnaissance.
+CMT 6
+////////
+Dans quelle situation, le conducteur peut-il utiliser la radio sol train, en phonie ?
+[] A l’arrêt, XXX
+[] En conduisant sur signaux voie libre, XXX
+[] Pour convenance personnelle,
+[] Lors d’une phase d’arrêt,
+[] Dans le respect de la signalisation restrictive.
+CMT 7
+////////
+À quel moment un conducteur peut-il réceptionner une dépêche :
+[] A l’arrêt, XXX
+[] En conduisant sur signaux voie libre,
+[] Sur respect de la signalisation,
+[] Lors d’une phase de mise en vitesse.
+CMT 8
+////////
+Lors des communications radio, « train 2024 » se dit :
+[] Train deux mille vingt-quatre,
+[] Train vingt vingt-quatre,
+[] Train deux zéro deux quatre, XXX
+[] Train deux cent deux quatre.
+CMT 11
+////////
+Quelles expressions employez-vous lors d’une communication « radio », pour transmettre la parole :
+[] « À toi », XXX
+[] « Parlez »,
+[] « À vous », XXX
+[] « Fini ».
+CMT 12
+////////
+Quelle expression devez-vous entendre, pour être certain que votre interlocuteur a bien entendu votre message ?
+[] « OK »,
+[] « Reçu », XXX
+[] « Vu ».
+CMT 13
+////////
+Quelle formule vous permet de faire répéter votre interlocuteur, en cas de mauvaise réception ou de mauvaise compréhension ?
+[] « Mal reçu »,
+[] « Répétez », XXX
+[] « Quoi ? Je n’ai pas compris »,
+[] « Comment ? ».
+CMT 14
+////////
+Quel terme vous permet de signifier que le message collationné est conforme au message émis ?
+[] « Correct », XXX
+[] « Parfait »,
+[] « Bien reçu »,
+[] « Bon ».
+CMT 15
+////////
+Quelle expression vous permet de signifier que le message collationné n’est pas conforme au message émis ? 
+[] « Incorrect »,
+[] « Pas juste »,
+[] « Pas bon »,
+[] « Erreur ». XXX
+CMT 16
+////////
+Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « T » ?
+[] Target,
+[] Time,
+[] Tango, XXX
+[] Train.
+CMT 17
+////////
+Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « R » ?
+[] Roger,
+[] Roméo, XXX
+[] Rex,
+[] Rail.
+CMT 18
+////////
+Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « A » ?
+[] Alpha, XXX
+[] Alma,
+[] Aïda,
+[] Alain.
+CMT 19
+////////
+Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « I » ?
+[] Indien,
+[] India, XXX
+[] Inch,
+[] Initiale.
+CMT 20
+////////
+Dans l’alphabet phonique international, quel mot utilisez-vous pour la lettre « N » ?
+[] Nike,
+[] Nylon,
+[] November, XXX
+[] Nathalie.
+CMT 21
+////////
+Lors de la conduite de son train, le conducteur :
+[] Est autorisé à écouter la radio ou son baladeur,
+[] Est autorisé à prendre connaissance de la presse ou d’autres média,
+[] Est autorisé à se détendre dans un demi-sommeil, uniquement dans les phases ou la conduite le permet,
+[] N’est autorisé à aucun des cas ci-dessus. XXX
+CMT 23
+////////
+En cas de manquement du conducteur à une obligation de sécurité ou par négligence qui occasionneraient des blessures ou la mort d’autrui, le conducteur :
+[] N’est pas inquiété, ce cas est couvert par les assurances de l’entreprise ferroviaire,
+[] Peut faire l’objet de sanction d’ordre administrative, XXX
+[] Peut faire l’objet de poursuite judiciaire, XXX
+[] N’est pas inquiété, ce cas est couvert par sa licence européenne.
+CMT 24
+////////
+Le conducteur signale une anomalie à l’infrastructure au moyen d’un formulaire du « livret procédures pour le conducteur » :
+[] Il le transmet à l’EPSF,
+[] Il le transmet au GID, XXX
+[] Il le transmet à l’EF. XXX
+CMT 26
+////////
+Lors de la conduite de son train, le conducteur :
+[] Doit s’efforcer de prendre le maximum possible d’avance,
+[] Doit s’efforcer de circuler dans le respect de l’horaire, XXX
+[] Doit utiliser le profil de la voie afin d’économiser l’énergie, XXX
+[] Doit gérer sa conduite à sa convenance.
+CMT 27
+////////
+Respecter la marche tracée prévue (respect de l’horaire), permet :
+[] D’économiser l’énergie (électricité, gas-oil), XXX
+[] De circuler avec des signaux ouverts, XXX
+[] D’économiser les freins, XXX
+[] De finir plus tôt son travail,
+[] De moins se soucier des règles de sécurité.
+CMT 28
+////////
+Quel mode de traction favorise la protection de l’environnement :
+[] Thermique,
+[] Electrique, XXX
+[] Vapeur.
+CMT 29
+////////
+Quelle expression vous permet de signifier l’interruption définitive de la communication ? 
+[] « Fin »,
+[] « Stop »,
+[] « Attendez »,
+[] « Terminé ». XXX
+CMT 30
+////////
+Lorsque 2 trains circulent dans le même sens, sur la même voie, il y a risque de :
+[] Rattrapage, XXX
+[] Collision frontale,
+[] Déraillement,
+[] Collision avec un obstacle.
+REF 1
+////////
+Parmi ces risques, identifier les risques ferroviaires :
+[] Enrayage,
+[] Patinage,
+[] Rattrapage, XXX
+[] Déraillement. XXX
+REF 2
+////////
+Quel moyen permet d’éviter le risque du rattrapage ?
+[] Le cantonnement, XXX
+[] Le régime d’exploitation,
+[] La limitation de vitesse,
+[] La protection des obstacles,
+[] Les signaux de protection.
+REF 3
+////////
+Quel risque peut être évité par le cantonnement ?
+[] Le nez à nez,
+[] Le rattrapage, XXX
+[] La prise en écharpe,
+[] Le déraillement,
+[] L’obstacle.
+REF 3bis
+////////
+Le rattrapage de deux trains de même sens est évité par : 
+[] Le block, XXX
+[] Le cantonnement, XXX
+[] Rien car cela n’est pas possible,
+[] La distance de visibilité dont dispose le conducteur.
+REF 4
+////////
+Le rattrapage de deux trains de même sens est évité par : 
+[] L’ouverture d’un signal,
+[] La division d’une ligne en cantons, XXX
+[] Le respect d’une même vitesse pour tous les trains,
+[] La fermeture d’un signal. XXX
+REF 5
+////////
+Lorsque 2 trains circulent en sens contraire, sur la même voie, le risque s’appelle :
+[] Le tête-à-tête,
+[] Le coup de bélier,
+[] Le nez à nez, XXX
+[] Le rattrapage. 
+REF 6
+////////
+Quels moyens permettent d’éviter le risque du nez à nez ?
+[] Le cantonnement,
+[] Le régime d’exploitation, XXX
+[] La limitation de vitesse,
+[] La protection des obstacles,
+[] Les signaux de protection. XXX
+REF 7
+////////
+Quels risques peuvent être évités par les signaux de protection ?
+[] Le nez à nez, XXX
+[] La dérive,
+[] La prise en écharpe, XXX
+[] Le déraillement.
+REF 8
+////////
+Parmi ces risques, identifier les risques ferroviaires :
+[] Obstacle, XXX
+[] Accident de personnes,
+[] Prise en écharpe, XXX
+[] Nez à nez, XXX
+[] Incendie.
+REF 9
+////////
+Lorsque 2 trains circulent sur des itinéraires convergents, le risque s’appelle :
+[] Le rattrapage,
+[] La prise multiple,
+[] La prise de clé,
+[] La prise en écharpe. XXX
+REF 10
+////////
+Quel moyen permet d’éviter le risque de la prise en écharpe ?
+[] Le cantonnement,
+[] Le régime d’exploitation,
+[] La limitation de vitesse,
+[] La protection des obstacles,
+[] Les signaux de protection. XXX
+REF 11
+////////
+Dans certaines courbes, la vitesse d’un train est réduite pour éviter le risque de :
+[] Dérayage,
+[] Déraillement, XXX
+[] Glissement.
+REF 12
+////////
+Quel moyen permet d’éviter le risque du déraillement ?
+[] Le cantonnement,
+[] Le régime d’exploitation,
+[] La limitation de vitesse, XXX
+[] Les signaux de protection.
+REF 13
+////////
+Quel risque peut être évité par le respect des limitations de vitesse ?
+[] Le nez à nez,
+[] Le rattrapage,
+[] La prise en écharpe,
+[] Le déraillement, XXX
+[] L’obstacle.
+REF 13bis
+////////
+Comment appelle-t-on un danger sur la voie de circulation ?
+[] Un obstacle inopiné, XXX
+[] Une protection inopinée,
+[] Une circulation inopinée.
+REF 14
+////////
+Quel moyen permet d’éviter le heurt d’un obstacle ?
+[] Le cantonnement,
+[] Le régime d’exploitation,
+[] La limitation de vitesse,
+[] La protection des obstacles. XXX
+REF 15
+////////
+Les wagons transportant des matières dangereuses doivent porter une indication précisant :
+[] L’identité du transporteur,
+[] La nature des dangers, XXX
+[] Les précautions à prendre en cas de fortes chaleurs,
+[] Les mesures à prendre en cas de gel.
+REF 16
+////////
+En cas d’incendie, le conducteur : 
+[] Doit utiliser les extincteurs, XXX
+[] Ne doit pas utiliser les extincteurs,
+[] Choisit le point d’arrêt du train, XXX
+[] Ne choisit pas le point d’arrêt du train.
+REF 17
+////////
+Le système d’espacement des trains se nomme :
+[] Le jalonnement, 
+[] Le cantonnement, XXX
+[] Le stationnement,
+[] Le fonctionnement.
+PST 1
+////////
+Quels sont les modes de cantonnement : 
+[] Le régime d’exploitation,
+[] La voie unique,
+[] Le block manuel, XXX
+[] Le block automatique. XXX
+PST 2
+////////
+Quels sont les avantages du block automatique : 
+[] Peu coûteux,
+[] Niveau de sécurité élevé, XXX
+[] Augmente le débit de la ligne, XXX
+[] Limite les risques électriques.
+PST 3
+////////
+Quel est le risque majeur en Voie Unique ?
+[] Le déraillement,
+[] Le rattrapage,
+[] L’obstacle,
+[] Le nez à nez, XXX
+[] La prise en écharpe.
+PST 4
+////////
+Quel est le document qui précise le régime d’exploitation d’une ligne ?
+[] Le livret ligne, XXX
+[] Le document horaire,
+[] La consigne d’organisation de l’entreprise ferroviaire,
+[] La presse locale.
+PST 5
+////////
+Le terme « double voie », indique :
+[] Le mode de cantonnement d’une ligne,
+[] Une ligne à écartement deux fois supérieur à la normale,
+[] Le régime d’exploitation d’une ligne, XXX
+[] La voie qui permet un dépassement de train.
+PST 6
+////////
+Le terme « voie unique » indique :
+[] Le mode de cantonnement,
+[] Une ligne à une seule voie, XXX
+[] Le régime d’exploitation d’une ligne, XXX
+[] Une ligne qui n’existe que sur le réseau RFN.
+PST 7
+////////
+Le terme « double voie », indique que :
+[] Le nombre de voies est supérieur à un, XXX
+[] Le nombre de voies est égal à quatre,
+[] Le nombre de voies est au moins de deux, XXX
+[] Le nombre de voies est au maximum de deux.
+PST 8
+////////
+Le terme « double voie », indique que :
+[] Chaque voie est affectée des deux sens de circulation,
+[] Chaque voie est affectée à un seul sens de circulation, XXX
+[] Ce sont deux voies uniques.
+PST 9
+////////
+Le terme « voie unique », indique que :
+[] La voie est affectée aux deux sens de circulation, XXX
+[] La voie est affectée d’un seul sens de circulation,
+[] Les trains des deux sens utilisent la même voie, XXX
+[] Les trains des deux sens n’utilisent pas la même voie.
+PST 10
+////////
+Sur « voie unique » la rencontre de deux trains de sens contraire est évitée par :
+[] L’application de la réglementation, XXX
+[] Aucune mesure, car cela ne peut arriver,
+[] Le freinage du train dès que le conducteur voit un train en face de lui.
+PST 11
+////////
+Le régime d’exploitation d’une ligne désigne :
+[] Le système d’espacement des trains,
+[] Le système de signalisation,
+[] Les règles d’exploitation, XXX
+[] Le régime de travail. 
+PST 12
+////////
+Parmi les propositions ci-dessous, indiquez les agrès permettant d’arrêter les trains :
+[] Le signal d’arrêt à main, XXX
+[] Le pétard, XXX
+[] Le signal d’alerte radio,
+[] La torche à flamme rouge, XXX
+[] La procédure gestuelle.
+PST 13
+////////
+Un « engin moteur en véhicule », c’est un engin :
+[] Qui participe à la traction du train,
+[] Qui ne participe pas à la traction du train, XXX
+[] Qui suit le train à distance,
+[] Qui est non freiné.
+PST 14
+////////
+Lorsqu’un freinage pneumatique se produit depuis la tête de train, quelle est la réaction des wagons :
+[] Ils freinent tous en même temps,
+[] Ils se tassent vers l’avant, XXX
+[] Ils se tassent vers l’arrière.
+PST 15
+////////
+Quels sont les paramètres qui influent sur les performances du freinage d’un train :
+[] La force du vent,
+[] Les équipements de freinage, XXX
+[] La masse, XXX
+[] Le conducteur.
+PST 16
+////////
+Un frein dit « continu automatique » :
+[] N’est commandé que depuis la locomotive,
+[] Agit sur toute la longueur du train, XXX
+[] Agit seulement sur la locomotive,
+[] Peut être mis en action depuis n’importe quel point du train. XXX
+PST 17
+////////
+Lorsque les conditions d’adhérence sont mauvaises, les distances d’arrêt sont :
+[] Raccourcies,
+[] Ne varient pas,
+[] Allongées. XXX
+PST 18
+////////
+Les trains de marchandises ont un freinage :
+[] Rapide et progressif,
+[] Rapide et immédiat,
+[] Lent et progressif, XXX
+[] Lent et immédiat.
+PST 19
+////////
+Les trains de voyageurs ont un freinage :
+[] Rapide et progressif,
+[] Rapide et immédiat, XXX
+[] Lent et progressif,
+[] Lent et immédiat.
+PST 20
+////////
+Les paramètres qui définissent le freinage des trains sont :
+[] Sa masse, XXX
+[] Sa vitesse, XXX
+[] La spécificité du chargement,
+[] La déclivité de la ligne. XXX
+PST 21
+////////
+La distance d’arrêt d’un train de voyageurs circulant à la vitesse de 160km/h, lors d’un freinage d’urgence, est d’environ :
+[] 500 mètres,
+[] 1200 mètres, XXX
+[] 3000 mètres.
+PST 22
+////////
+La distance d’arrêt d’un train de marchandises, circulant à la vitesse de 100km/h, lors d’un freinage d’urgence, est d’environ :
+[] 170 mètres,
+[] 400 mètres,
+[] 1000 mètres, XXX
+[] 3000 mètres.
+PST 23
+////////
+La distance d’arrêt d’un train de marchandises, circulant à la vitesse de 30km/h, lors d’un freinage d’urgence, est d’environ :
+[] 20 mètres,
+[] 180 mètres, XXX
+[] 300 mètres,
+[] 500 mètres.
+PST 24
+////////
+La distance d’arrêt d’un train de voyageurs, circulant à la vitesse maximum de 120km/h, lors d’un freinage d’urgence, est d’environ :
+[] 400 mètres,
+[] 800 mètres, XXX
+[] 1500 mètres,
+[] 3000 mètres.
+PST 25
+////////
+La distance d’arrêt d’un train de voyageurs, circulant à la vitesse de 30km/h, lors d’un freinage d’urgence est d’environ :
+[] 20 mètres,
+[] 100 mètres, XXX
+[] 300 mètres,
+[] 500 mètres.
+PST 26
+////////
+Quels paramètres influent sur le freinage des trains :
+[] La nature des marchandises,
+[] L’implantation des signaux,
+[] La vitesse, XXX
+[] La masse des véhicules remorqués. XXX
+PST 27
+////////
+Quels paramètres influent sur la distance de freinage des trains :
+[] La longueur, XXX
+[] L’adhérence, XXX
+[] Le nombre de voyageurs,
+[] L’horaire.
+PST 28
+////////
+Lorsque l’adhérence est dégradée en freinage :
+[] Les distances d’arrêt sont allongées, XXX
+[] Les distances d’arrêt sont raccourcies,
+[] La puissance de freinage doit être réduite, XXX
+[] La puissance de freinage doit être renforcée.
+PST 29
+////////
+Vous circulez en « circulation normale, à gauche » sur voie principale. Les signaux s’adressant à vous sont implantés :
+[] À droite,
+[] Au-dessus, XXX
+[] À gauche, XXX
+[] Entre les 2 fils de rail,
+PST 30
+////////
+La signalisation est généralement implantée :
+[] À gauche, XXX
+[] Des 2 côtés,
+[] Uniquement au-dessus de la voie.
+PST 32
+////////
+Quel est le rôle des éclisses :
+[] Assurer la liaison mécanique entre deux rails, XXX
+[] Assurer la liaison mécanique entre deux lames d’aiguille,
+[] Assurer la liaison mécanique entre les traverses.
+PST 49
+////////
+Les signaux de protection sont utilisés pour : 
+[] Arrêter les trains, XXX
+[] Retenir les trains, XXX
+[] Accélérer la vitesse des trains,
+[] Limiter la vitesse de trains.
+PST 59
+////////
+Pour éviter une collision entre deux trains on utilise des signaux : 
+[] D’annonce,
+[] De limitation de vitesse,
+[] De chantier,
+[] De protection. XXX
+PST 60
+////////
+Pour indiquer la vitesse limite d’un train on utilise des signaux : 
+[] D’ordre de vitesse,
+[] D’augmentation de vitesse,
+[] De limitation de vitesse, XXX
+[] De manœuvre de vitesse.
+PST 61
+////////
+Un signal de protection peut être : 
+[] Commandé par un aiguilleur, XXX
+[] Automatique, XXX
+[] Commandé par le personnel de bord.
+PST 62
+////////
+Une signalisation permanente est :
+[] Installée à demeure, XXX
+[] Installée provisoirement,
+[] Installée temporairement.
+PST 63
+////////
+Quel moyen peut permettre au conducteur d’assurer la couverture d’un obstacle :
+[] Le signal d’arrêt à main, XXX
+[] La plaque de queue,
+[] Le carnet d’étiquettes.
+PST 64
+////////
+Quels moyens ci-dessous appartiennent à la catégorie « Protection des obstacles » ? 
+[] Les pétards, XXX
+[] La plaque de queue,
+[] Le carnet d’étiquettes,
+[] Le signal d’alerte radio. XXX
+PST 65
+////////
+« Protéger un obstacle » consiste à :
+[] Arrêter les trains se dirigeant vers l’obstacle, XXX
+[] Aviser simplement de la présence de l’obstacle,
+[] Ralentir les trains se dirigeant vers l’obstacle.
+PST 66
+////////
+Que doit faire un conducteur lors d’une gestion de situation d’obstacle ?
+[] Obtenir l’arrêt des autres trains, XXX
+[] Informer sans s’arrêter,
+[] Alerter, XXX
+[] S’arrêter, XXX
+[] N’informer que les autres trains.
+PST 67
+////////
+Le terme « voies principales » indique :
+[] Les voies qui relient les gares entres-elles, XXX
+[] Les voies qui sont dédiées à la circulation des trains de voyageurs,
+[] Les voies de triage qui sont affectées au départ et à la réception des trains de marchandises,
+[] Toutes les voies du Réseau Ferré National.
+PST 68
+////////
+Le ballast est à base de :
+[] Sable,
+[] Graviers,
+[] Cailloux calibrés. XXX
+PST 69
+////////
+Les éléments constitutifs d’un rail sont : 
+[] Le champignon, XXX
+[] Le ballast,
+[] Le cœur,
+[] L’âme. XXX
+PST 71
+////////
+En France, l’écartement standard des rails de la voie est de :
+[] 1,335 mètres,
+[] 1,435 mètres, XXX
+[] 1,524 mètres,
+[] 1,672mètres.
+PST 72
+////////
+Les traverses qui servent à maintenir l’écartement de la voie sont fabriquées :
+[] En caoutchouc,
+[] En bois, XXX
+[] En béton. XXX
+PST 73
+////////
+Quel est le rôle du ballast ?
+[] Répartir les efforts longitudinaux,
+[] Répartir les efforts transversaux,
+[] Répartir les efforts et charges transmis par le matériel roulant, XXX
+[] D’amortir les vibrations. XXX
+PST 74
+////////
+Lorsque je circule dans une rampe :
+[] Je suis dans une montée, XXX
+[] Je suis dans une descente,
+[] Je suis alternativement dans une montée et dans une descente.
+PST 79
+////////
+Lorsque je circule dans une pente :
+[] Je monte uniquement,
+[] Je descends uniquement, XXX
+[] Je monte et je descends.
+PST 80
+////////
+Quel est le risque lié au patinage ?
+[] Le rattrapage,
+[] La dégradation de la caténaire,
+[] Le nez à nez,
+[] La dégradation du rail. XXX
+PST 83
+////////
+Quels sont les risques liés à l’enrayage ?
+[] Le rattrapage, XXX
+[] La dégradation du matériel roulant, XXX
+[] L’incendie,
+[] La dégradation de la caténaire.
+PST 84
+////////
+Quels sont les risques liés à l’enrayage ?
+[] Le rattrapage, XXX
+[] L’explosion du moteur,
+[] La prise en écharpe, XXX
+[] La dégradation de la caténaire.
+PST 85
+////////
+Un appareil de voie entrebâillé doit être :
+[] Franchi à vitesse normale,
+[] Franchi à basse vitesse,
+[] Non franchi. XXX
+PST 87
+////////
+Un passage à niveau dont une barrière est cassée présente-t-il un risque :
+[] Oui, XXX
+[] Non,
+[] Ça dépend de la visibilité.
+PST 89
+////////
+Une barrière de passage à niveau cassée présente :
+[] Un risque pour les circulations routières uniquement,
+[] Un risque pour les circulations ferroviaires uniquement,
+[] Un risque pour les circulations routières et ferroviaires, XXX
+[] Ne présente aucun risque.
+PST 90
+////////
+Citer les catégories d’acteurs qui interviennent dans l’organisation opérationnelle des circulations des trains :
+[] Aiguilleur, XXX
+[] Agent d’entretien des voies, 
+[] Agent d’entretien des caténaires.
+CCER 1
+////////
+Citer les catégories d’acteurs qui interviennent dans l’organisation opérationnelle des circulations des trains :
+[] Contrôleur,
+[] Régulateur, XXX
+[] Agent commercial.
+CCER 2
+////////
+Parmi les actions citées ci-dessous, indiquez les actions « réflexes » :
+[] Actionner le freinage d’urgence, XXX
+[] Déterminer la vitesse limite de son train,
+[] Dépanner un engin moteur.
+CCER 3
+////////
+Citez les actions « réfléchies », SANS consultation de document :
+[] Arrêter d’urgence son train,
+[] Déterminer la vitesse limite de son train,
+[] Obéir à la signalisation. XXX
+CCER 4
+////////
+Citez les actions « réfléchies », AVEC consultation de document :
+[] Dépanner un engin moteur, XXX
+[] Arrêter rapidement les autres circulations,
+[] Obéir à la signalisation.
+CCER 5
+////////
+Comment respecter les procédures :
+[] Les interpréter en fonction des situations,
+[] Gérer les priorités, XXX
+[] Faire preuve d’initiative,
+[] Utiliser les documents d’application. XXX
+CCER 7 
+////////
+Parmi les actions citées ci-dessous, indiquez les actions « réflexes » :
+[] Consulter la documentation,
+[] Déclencher le SAR, XXX
+[] Aviser le G.I.D, par téléphone.
+CCER 8
+////////
+Citez les actions « réfléchies », SANS consultation de document :
+[] Arrêter d’urgence son train,
+[] Dépanner un engin moteur,
+[] Aviser le G.I.D, par téléphone. XXX
+CCER 9
+////////
+Citez les actions « réfléchies », AVEC consultation de document :
+[] Arrêter d’urgence son train,
+[] Déterminer la vitesse limite de son train, XXX
+[] Aviser par téléphone le G.I.D.
+CCER 10
+////////
+Citer les règles à respecter dans l’application des procédures :
+[] Contrôler ses actions, XXX
+[] Terminer l’action commencée, XXX
+[] Travailler de mémoire uniquement,
+[] Adapter les procédures.
+CCER 11 
+////////
+Les procédures de sécurité sont appliquées :
+[] Uniquement en cas de danger,
+[] A l’initiative du conducteur,
+[] Sur demande de l’EPSF,
+[] Au quotidien, dans l’exercice du métier de conducteur. XXX
+CCER 12
+////////
+Les procédures de sécurité doivent :
+[] Être différées en cas de retard,
+[] Être appliquées avec rigueur, XXX
+[] Être interprétées.
+CCER 13
+////////
+Les procédures de sécurité sont appliquées : 
+[] En cas de neige ou de verglas,
+[] Systématiquement, XXX 
+[] Sauf les dimanches et fêtes.
+CCER 14
+////////
+Lorsque le conducteur reçoit un appel, il doit :
+[] Répondre immédiatement,
+[] Gérer en priorité la signalisation qui lui est présentée, XXX
+[] Gérer la circulation du train (régler la vitesse, gérer des arrêts, …), XXX
+[] Ne pas répondre quand il est en mode conduite.
+CCER 15
+////////
+En cas d’urgence, pour arrêter les autres trains, le conducteur dispose :
+[] Du signal d’arrêt à main, XXX
+[] Du mouvement de bras, XXX
+[] Du numéro d’urgence de la gendarmerie,
+[] Du signal d’alerte radio. XXX
+PAP 1
+////////
+En cas d’urgence, pour arrêter les autres trains, le conducteur déclenche, en cabine de conduite :
+[] Le signal d’alerte lumineux, XXX
+[] La torche,
+[] Le signal d’arrêt à main,
+[] Le signal d’alerte radio. XXX
+PAP 2
+////////
+En cas d’urgence, pour arrêter les autres trains, le conducteur utilise, aux abords de la voie :
+[] Le signal d’alerte lumineux,
+[] Des torches à flamme rouge, XXX
+[] Le signal d’alerte radio,
+[] Un mouvement de bras. XXX
+PAP 3
+////////
+À la perception du signal d’alerte-radio, le conducteur :
+[] Arrête son train d’urgence, XXX
+[] Ralentit son train,
+[] Ecoute la radio,
+[] Maintient sa vitesse.
+PAP 4
+////////
+À la perception du signal d’alerte lumineux, le conducteur :
+[] Arrête son train d’urgence, XXX
+[] Ralentit son train,
+[] Ecoute la radio,
+[] Maintient sa vitesse.
+PAP 5
+////////
+À la perception de l’explosion de pétards, le conducteur :
+[] Arrête son train d’urgence, XXX
+[] Ecoute la radio,
+[] Maintient sa vitesse,
+[] Ralentit son train.
+PAP 6
+////////
+À la perception de la lueur d’une torche à flamme rouge, le conducteur :
+[] Arrête son train d’urgence, XXX
+[] Ralentit son train,
+[] Ecoute la radio,
+[] Maintient sa vitesse.
+PAP 7
+////////
+La protection d’un point dangereux est assurée par :
+[] La fermeture des signaux d’arrêt, XXX
+[] L’émission du signal d’alerte radio,
+[] L’émission du signal d’alerte lumineux.
+PAP 8
+////////
+Pour arrêter un train, le conducteur une fois au sol peut utiliser :
+[] La barre de court-circuit, XXX
+[] Le signal d’arrêt à main et des pétards, XXX
+[] La radio en phonie,
+[] Le signal d’alerte lumineux.
+PAP 9
+////////
+Pour arrêter un train, le conducteur une fois au sol peut utiliser :
+[] Des pétards, en pleine voie, XXX
+[] La torche à flamme rouge, XXX
+[] La radio en phonie,
+[] Le signal d’alerte lumineux.
+PAP 10
+////////
+En cas d’urgence, pour arrêter les autres trains, le conducteur dispose :
+[] Du signal d’alerte lumineux, XXX
+[] Des torches à flamme rouge, XXX
+[] D’un sifflet,
+[] D’un SMS.
+PAP 11
+////////
+En cas d’urgence, pour arrêter les autres trains, le conducteur déclenche, en cabine de conduite :
+[] Le signal d’alerte lumineux, XXX
+[] Un mouvement de bras,
+[] Les pétards, en pleine voie,
+[] Le signal d’alerte radio. XXX
+PAP 12
+////////
+Citer la méthode que vous appliquez, lors d’un accident de personne :
+[] Secourir/Alerter/Protéger,
+[] Alerter/Secourir/Protéger,
+[] Protéger/Secourir/Alerter,
+[] Protéger/Alerter/Secourir. XXX
+PAP 13
+////////
+Quel est le numéro de téléphone de secours européen ?
+[] 112, XXX
+[] 18,
+[] 17,
+[] 3639.
+PAP 15
+////////
+Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :
+[] Porter secours aux victimes en fonction de ses moyens et compétences, XXX
+[] Délimiter un périmètre de sécurité,
+[] Se soumettre à l’épreuve de l’alcootest, XXX
+[] Klaxonner régulièrement pour faciliter l’arrivée des secours.
+PAP 16
+////////
+Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :
+[] Rester dans sa cabine jusqu’à l’arrivée des secours,
+[] Assurer la garde de l’enregistreur, même si la police le réclame, XXX
+[] Attendre l’arrivée d’un agent de l’entreprise pour répondre aux questions des enquêteurs,
+[] Se soumettre au dépistage de produit psychotrope. XXX
+PAP 17
+////////
+Lorsque le train du conducteur est impliqué dans un accident de personne, le conducteur doit :
+[] Relever l’identité et l’adresse de témoins, XXX
+[] S’assurer du décès de la victime avant de prévenir les secours,
+[] Répondre aux questions des journalistes,
+[] Faciliter l’enquête de police en notant tous les éléments divers (numéro de véhicules, …). XXX
+PAP 18
+////////
+Quel organe d’une locomotive capte le courant, sur la caténaire ?
+[] Le transformateur,
+[] Le pantographe, XXX
+[] Le disjoncteur,
+[] Le parafoudre.
+PBE 1
+////////
+Quel est le type de contact entre la caténaire et le pantographe ?
+[] Statistique,
+[] Glissant, XXX
+[] Flottant,
+[] Aléatoire,
+[] Intermittent.
+PBE 2
+////////
+Le RSS est :
+[] Un garde de sous-station,
+[] Le Responsable Systèmes Sécurité,
+[] Le Régulateur Sous Station, XXX
+[] L’agent qualifié pour organiser les circulations.
+PBE 3
+////////
+L’absence de tension ligne peut être la conséquence :
+[] D’une avarie caténaire, XXX
+[] D’une avarie de l’engin moteur,
+[] D’une coupure d’urgence, XXX
+[] Du non-règlement de la facture par l’entreprise,
+[] De la non-alimentation de la caténaire. XXX
+PBE 4
+////////
+Pour obtenir du courant continu à partir du courant alternatif, on utilise :
+[] Un rehausseur,
+[] Un transformateur,
+[] Un redresseur, XXX
+[] Des selfs de lissage.
+PBE 5
+////////
+Les locomotives électriques sont généralement alimentées en courant de traction par :
+[] Un fil de contact suspendu au-dessus de la voie, XXX
+[] Un rail implanté dans l’entrevoie,
+[] Un circuit de voie dans les rails.
+PBE 6
+////////
+Sur une locomotive le retour du courant électrique s’effectue par :
+[] La masse, XXX
+[] Le rail, XXX
+[] L’air,
+[] La caténaire.
+PBE 8

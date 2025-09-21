@@ -1,0 +1,19 @@
+# Dépendances Python pour l'extraction des données PDF EPSF
+
+# PyMuPDF pour l'extraction de texte et d'images depuis les PDF
+PyMuPDF==1.23.26
+
+# Pillow pour le traitement d'images
+Pillow==10.1.0
+
+# Regex (inclus dans Python standard, mais listé pour référence)
+# re - module standard Python
+
+# JSON (inclus dans Python standard)
+# json - module standard Python
+
+# Pathlib (inclus dans Python standard depuis Python 3.4)
+# pathlib - module standard Python
+
+# OS (inclus dans Python standard)
+# os - module standard Python
