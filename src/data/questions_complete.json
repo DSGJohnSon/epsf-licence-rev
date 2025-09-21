@@ -1,7 +1,7 @@
 {
   "quiz": {
     "title": "Quiz de Révision EPSF - Collection Complète",
-    "description": "Testez vos connaissances avec ce quiz interactif pour la licence EPSF - 262 questions",
+    "description": "Testez vos connaissances avec ce quiz interactif pour la licence EPSF - 312 questions",
     "questions": [
       {
         "id": 1,
@@ -6913,6 +6913,1546 @@
           "2"
         ],
         "code": "PBE 8"
+      },
+      {
+        "id": 263,
+        "question": "Sur un poteau caténaire, le conducteur observe le symbole suivant, la caténaire est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Supérieure à 6 mètres,"
+          },
+          {
+            "id": "2",
+            "text": "Au moins à 5 mètres,"
+          },
+          {
+            "id": "3",
+            "text": "Inférieure à 5 mètres."
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "RSP33",
+        "image": "/images_questions/RSP33.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 264,
+        "question": "Un EM comprenant deux modes de traction différents, s’appelle :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Un EM bimode"
+          },
+          {
+            "id": "2",
+            "text": "Un EM bi-courant"
+          },
+          {
+            "id": "3",
+            "text": "Un autorail"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR8",
+        "image": "/images_questions/IMR8.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 265,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La table de roulement"
+          },
+          {
+            "id": "2",
+            "text": "La toile"
+          },
+          {
+            "id": "3",
+            "text": "Le boudin"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "IMR17",
+        "image": "/images_questions/IMR17.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 266,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La table de roulement"
+          },
+          {
+            "id": "2",
+            "text": "La toile"
+          },
+          {
+            "id": "3",
+            "text": "Le boudin"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "IMR18",
+        "image": "/images_questions/IMR18.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 267,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La table de roulement"
+          },
+          {
+            "id": "2",
+            "text": "La toile"
+          },
+          {
+            "id": "3",
+            "text": "Le boudin"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR19",
+        "image": "/images_questions/IMR19.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 268,
+        "question": "Retrouvez les différents éléments qui composent l’attelage :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Feux de signalisation"
+          },
+          {
+            "id": "2",
+            "text": "Le crochet de traction"
+          },
+          {
+            "id": "3",
+            "text": "Le tendeur d’attelage"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "IMR20",
+        "image": "/images_questions/IMR20.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 269,
+        "question": "Retrouvez les différents éléments qui composent l’attelage:",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Les feux de signalisation"
+          },
+          {
+            "id": "2",
+            "text": "Les accouplements CG et CP"
+          },
+          {
+            "id": "3",
+            "text": "Le crochet de traction"
+          },
+          {
+            "id": "4",
+            "text": "Les portes d’intercirculation"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3"
+        ],
+        "code": "IMR21",
+        "image": "/images_questions/IMR21.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 270,
+        "question": "La liaison entre la caisse et le châssis de bogie est appelée :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La suspension secondaire"
+          },
+          {
+            "id": "2",
+            "text": "La suspension primaire"
+          },
+          {
+            "id": "3",
+            "text": "La suspension première"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR22",
+        "image": "/images_questions/IMR22.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 271,
+        "question": "La suspension secondaire assure la liaison entre :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La caisse et le châssis de bogie"
+          },
+          {
+            "id": "2",
+            "text": "Le châssis de bogie et le boite d’essieu"
+          },
+          {
+            "id": "3",
+            "text": "La boite d’essieu et la caisse"
+          },
+          {
+            "id": "4",
+            "text": "La roue et la boite d’essieu"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "IMR23",
+        "image": "/images_questions/IMR23.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 272,
+        "question": "Composition de la suspension d’un EM :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Suspension primaire"
+          },
+          {
+            "id": "2",
+            "text": "Entièrement suspendu"
+          },
+          {
+            "id": "3",
+            "text": "Suspension secondaire"
+          },
+          {
+            "id": "4",
+            "text": "Suspension rigide"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "IMR24",
+        "image": "/images_questions/IMR24.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 273,
+        "question": "Mettre dans l’ordre chronologique, les phases d’une journée d’un conducteur:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "E-D-G-B-F-A-C"
+          },
+          {
+            "id": "2",
+            "text": "E-D-B-G-A-C-F"
+          },
+          {
+            "id": "3",
+            "text": "E-D-B-C-A-G-F"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT1",
+        "image": "/images_questions/CMT1.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 274,
+        "question": "A l’aide de ce téléphone, le conducteur peut rentrer en contact avec :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "L’agent circulation"
+          },
+          {
+            "id": "2",
+            "text": "Le régulateur sous station"
+          },
+          {
+            "id": "3",
+            "text": "Le régulateur infra"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "CMT9",
+        "image": "/images_questions/CMT9.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 275,
+        "question": "Sur un poteau caténaire, le symbole suivant indique :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "La présence d’une niche de protection"
+          },
+          {
+            "id": "2",
+            "text": "Le sens de la circulation des trains"
+          },
+          {
+            "id": "3",
+            "text": "Le sens du prochain téléphone d’alarme"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "CMT10",
+        "image": "/images_questions/CMT10.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 276,
+        "question": "Une signalisation permanente est :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Installée à demeure"
+          },
+          {
+            "id": "2",
+            "text": "Installée provisoirement"
+          },
+          {
+            "id": "3",
+            "text": "Toujours lumineuse"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST31",
+        "image": "/images_questions/PST31.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 277,
+        "question": "En situation normale, un signal lumineux est manoeuvré par :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Des opérateurs dans les postes"
+          },
+          {
+            "id": "2",
+            "text": "Par des dispositifs automatiques"
+          },
+          {
+            "id": "3",
+            "text": "Par les conducteurs de train"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST33",
+        "image": "/images_questions/PST33.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 278,
+        "question": "Un signal mécanique est manoeuvré par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "des opérateurs dans les postes"
+          },
+          {
+            "id": "2",
+            "text": "par des dispositifs automatiques"
+          },
+          {
+            "id": "3",
+            "text": "par les conducteurs de train"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST34",
+        "image": "/images_questions/PST34.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 279,
+        "question": "Quels sont les parties constitutives de la voie ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Ballast"
+          },
+          {
+            "id": "2",
+            "text": "Coeur d’aiguille"
+          },
+          {
+            "id": "3",
+            "text": "Traverses"
+          },
+          {
+            "id": "4",
+            "text": "Caténaire"
+          },
+          {
+            "id": "5",
+            "text": "Rail"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3",
+          "5"
+        ],
+        "code": "PST70",
+        "image": "/images_questions/PST70.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 280,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le bourrelet du rail"
+          },
+          {
+            "id": "2",
+            "text": "Le champignon du rail"
+          },
+          {
+            "id": "3",
+            "text": "Le coeur du rail"
+          },
+          {
+            "id": "4",
+            "text": "Le patin du rail"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST75",
+        "image": "/images_questions/PST75.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 281,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le corps du rail"
+          },
+          {
+            "id": "2",
+            "text": "L’âme du rail"
+          },
+          {
+            "id": "3",
+            "text": "Le coeur du rail"
+          },
+          {
+            "id": "4",
+            "text": "Le bourrelet du rail"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST76",
+        "image": "/images_questions/PST76.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 282,
+        "question": "Dans la photo ci-contre, l’élément désigné par la flèche rouge est:",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Le corps du rail"
+          },
+          {
+            "id": "2",
+            "text": "L’âme du rail"
+          },
+          {
+            "id": "3",
+            "text": "La semelle du rail"
+          },
+          {
+            "id": "4",
+            "text": "Le patin du rail"
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST77",
+        "image": "/images_questions/PST77.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 283,
+        "question": "Quels sont les termes qui compose le rail ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Patin"
+          },
+          {
+            "id": "2",
+            "text": "Table de roulement"
+          },
+          {
+            "id": "3",
+            "text": "Traverses"
+          },
+          {
+            "id": "4",
+            "text": "Champignon"
+          },
+          {
+            "id": "5",
+            "text": "Vis"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PST78",
+        "image": "/images_questions/PST78.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 284,
+        "question": "Parmi les termes qui composent une aiguille ci-dessous, lesquels font partie d’une aiguille ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Lame"
+          },
+          {
+            "id": "2",
+            "text": "Coeur d’aiguille"
+          },
+          {
+            "id": "3",
+            "text": "Boudin"
+          },
+          {
+            "id": "4",
+            "text": "Âme"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST81",
+        "image": "/images_questions/PST81.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 285,
+        "question": "Quelle direction donne l’aiguille ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Droite"
+          },
+          {
+            "id": "2",
+            "text": "Gauche"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST82",
+        "image": "/images_questions/PST82.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 286,
+        "question": "Dans cette situation l’aiguille est abordée en :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Pointe"
+          },
+          {
+            "id": "2",
+            "text": "Talon"
+          },
+          {
+            "id": "3",
+            "text": "Botte"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST86",
+        "image": "/images_questions/PST86.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 287,
+        "question": "Dans cette situation l’aiguille est à :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Gauche"
+          },
+          {
+            "id": "2",
+            "text": "Droite"
+          },
+          {
+            "id": "3",
+            "text": "Entrebâillée"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST88",
+        "image": "/images_questions/PST88.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 288,
+        "question": "Les installations au sol, permettant de détecter une température anormalement élevée des boites d’essieux s’appellent «D.B.C.», comme :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Détecteurs de bogies chauds"
+          },
+          {
+            "id": "2",
+            "text": "Détecteurs de boites chaudes"
+          },
+          {
+            "id": "3",
+            "text": "Détecteurs de bogies critiques"
+          },
+          {
+            "id": "4",
+            "text": "Détecteurs de boites critiques"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST91",
+        "image": "/images_questions/PST91.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 289,
+        "question": "Les rails sont maintenus entre eux par :",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "des clips"
+          },
+          {
+            "id": "2",
+            "text": "des éclipses"
+          },
+          {
+            "id": "3",
+            "text": "des éclisses"
+          },
+          {
+            "id": "4",
+            "text": "des agrafes"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST92",
+        "image": "/images_questions/PST92.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 290,
+        "question": "Quels sont les types de tension caténaire utilisés sur RFN :",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "3000 V continu"
+          },
+          {
+            "id": "2",
+            "text": "1500 V continu"
+          },
+          {
+            "id": "3",
+            "text": "1000 V continu"
+          },
+          {
+            "id": "4",
+            "text": "25000 V alternatif"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "PBE7",
+        "image": "/images_questions/PBE7.png",
+        "imageAlt": ""
+      },
+      {
+        "id": 291,
+        "question": "Parmi les signaux ci-dessous, lequel est un signal temporaire ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST36_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST36_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST36_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST36_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST36"
+      },
+      {
+        "id": 292,
+        "question": "Parmi les signaux ci-dessous, lesquels sont des signaux mécaniques ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST37_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST37_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST37_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST37_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "3"
+        ],
+        "code": "PST37"
+      },
+      {
+        "id": 293,
+        "question": "Parmi les signaux ci-dessous, lequel est un signal lumineux ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST38_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST38_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST38_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST38_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST38"
+      },
+      {
+        "id": 294,
+        "question": "Parmi les signaux ci-dessous, lesquels sont des signaux de protection ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST39_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST39_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST39_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST39_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST39"
+      },
+      {
+        "id": 295,
+        "question": "Dans les principes de signaux d’annonce / signaux d’exécution, parmi les panneaux ci-dessous, lesquels sont des signaux d’exécution ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST40_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST40_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST40_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST40_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "PST40"
+      },
+      {
+        "id": 296,
+        "question": "Dans les principes de signaux d’annonce / signaux d’exécution, parmi les panneaux ci-dessous, lesquels sont des signaux d’exécution de limitation de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST41_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST41_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST41_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST41_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST41"
+      },
+      {
+        "id": 297,
+        "question": "Dans les principes de signaux d’annonce / signaux d’exécution, parmi les panneaux ci-dessous, lesquels sont des signaux d’exécution de limitation de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST42_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST42_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST42_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST42_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST42"
+      },
+      {
+        "id": 298,
+        "question": "Parmi les signaux ci-contre, lesquels sont des signaux d’arrêt ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST43_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST43_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST43_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST43_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "3",
+          "4"
+        ],
+        "code": "PST43"
+      },
+      {
+        "id": 299,
+        "question": "Parmi les signaux ci-contre, lequel est un signal d’arrêt à main ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST44_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST44_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST44_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST44_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "4"
+        ],
+        "code": "PST44"
+      },
+      {
+        "id": 300,
+        "question": "Parmi les signaux ci-contre, lesquels sont des signaux d’annonce ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST45_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST45_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST45_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST45_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "2"
+        ],
+        "code": "PST45"
+      },
+      {
+        "id": 301,
+        "question": "Parmi les signaux ci-contre, lequel est un signal d’annonce de limitation de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST46_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST46_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST46_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST46_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST46"
+      },
+      {
+        "id": 302,
+        "question": "Parmi les signaux ci-dessous, lequel est implanté à distance d’un signal d’arrêt ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST47_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST47_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST47_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST47_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST47"
+      },
+      {
+        "id": 303,
+        "question": "Parmi les signaux ci-dessous, lequel est un signal d’espacement des trains ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST48_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST48_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST48_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST48_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST48"
+      },
+      {
+        "id": 304,
+        "question": "Parmi les signaux ci-dessous, lequel est un signal de protection ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST50_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST50_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST50_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST50_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST50"
+      },
+      {
+        "id": 305,
+        "question": "Parmi les signaux ci-dessous, lequel est un signal de limitation de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST51_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST51_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST51_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST51_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST51"
+      },
+      {
+        "id": 306,
+        "question": "Parmi les signaux ci-dessous, lesquels sont des signaux de protection ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST52_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST52_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST52_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST52_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2",
+          "4"
+        ],
+        "code": "PST52"
+      },
+      {
+        "id": 307,
+        "question": "Parmi les signaux ci-dessous, lequel assure la protection d’une bifurcation ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST53_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST53_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST53_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST53_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST53"
+      },
+      {
+        "id": 308,
+        "question": "Quel signal informe le conducteur qu’il va rencontrer une limitation permanente de vitesse ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST54_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST54_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST54_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST54_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "2"
+        ],
+        "code": "PST54"
+      },
+      {
+        "id": 309,
+        "question": "Parmi les signaux ci-dessous, lequel définit la fin de la zone où la vitesse est limitée ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST55_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST55_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST55_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST55_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "3"
+        ],
+        "code": "PST55"
+      },
+      {
+        "id": 310,
+        "question": "Parmi les signaux ci-dessous, lequel définit le début de la zone où la vitesse est limitée ?",
+        "type": "single",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST56_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST56_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST56_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST56_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1"
+        ],
+        "code": "PST56"
+      },
+      {
+        "id": 311,
+        "question": "Parmi les signaux ci-dessous, lesquels définissent la fin de la zone où la vitesse est limitée ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST57_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST57_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST57_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST57_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "3",
+          "4"
+        ],
+        "code": "PST57"
+      },
+      {
+        "id": 312,
+        "question": "Parmi les signaux ci-dessous, quels sont ceux qui définissent le début de la zone où la vitesse est limitée ?",
+        "type": "multiple",
+        "options": [
+          {
+            "id": "1",
+            "text": "Signal A",
+            "image": "/images_questions/PST58_1.png",
+            "imageAlt": "Signal ferroviaire A"
+          },
+          {
+            "id": "2",
+            "text": "Signal B",
+            "image": "/images_questions/PST58_2.png",
+            "imageAlt": "Signal ferroviaire B"
+          },
+          {
+            "id": "3",
+            "text": "Signal C",
+            "image": "/images_questions/PST58_3.png",
+            "imageAlt": "Signal ferroviaire C"
+          },
+          {
+            "id": "4",
+            "text": "Signal D",
+            "image": "/images_questions/PST58_4.png",
+            "imageAlt": "Signal ferroviaire D"
+          }
+        ],
+        "correctAnswers": [
+          "1",
+          "4"
+        ],
+        "code": "PST58"
       }
     ]
   }

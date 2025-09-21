@@ -11,6 +11,7 @@ export interface QuizQuestion {
   type: 'single' | 'multiple';
   options: QuizOption[];
   correctAnswers: string[];
+  code?: string; // Code de la question (optionnel)
   image?: string; // URL ou chemin vers l'image d'illustration (optionnel)
   imageAlt?: string; // Texte alternatif pour l'image (optionnel)
 }
